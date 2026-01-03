@@ -1,0 +1,57 @@
+name: Render Markdown as a static site and deploy via SCP to CMU servers
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install dependencies
+        run: npm install marked dompurify jsdom js-yaml
+      - name: Create output directory
+        run: mkdir -p _site
+      - name: Convert markdown to HTML
+        run: node .render/render.js
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: my-artifact
+          path: _site
+
+  deploy-scs:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Download artifact for copying
+        uses: actions/download-artifact@v4
+        with:
+          name: my-artifact
+          path: distfiles
+      - name: Copy folder via SCP
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.SCS_HOSTNAME }}
+          username: ${{ secrets.CHRIS_SCS_USERNAME }}
+          password: ${{ secrets.CHRIS_SCS_PASSWORD }}
+          port: 22 # Change if your SSH port is different
+          source: distfiles/*
+          target: ${{ secrets.SCS_DEPLOY_DIR }}
+          strip_components: 1
