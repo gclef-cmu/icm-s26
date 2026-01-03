@@ -1,9 +1,10 @@
-# CMU 15-322/622 Introduction to Computer Music, Spring 2026
+# CMU 15-322/622 Intro to Computer Music, Spring 2026
 
 ## Quick Links
 
-- [Schedule](TODO)
-- [Google Drive](TODO)
+- [Syllabus](syllabus.md)
+- [Calendar](calendar.md)
+- [Google Drive](https://drive.google.com/drive/u/0/folders/1FR-i0Tiqi3tBfU1WdVpcW_d0-8P6T1rh)
 - [Piazza](TODO)
 
 ## Important information
@@ -17,4 +18,4 @@
 
 ## Description
 
-Welcome to CMU/SCS Intro to Computer Music, Spring 2026 edition, taught by [Chris Donahue](https://chrisdonahue.com) and previously designed by [Roger B. Dannenberg](https://www.cs.cmu.edu/~rbd/). Special thanks to [Tom Cortina](https://www.cs.cmu.edu/~tcortina/) for his help with the course design, content, and guest lectures this semester.
+Welcome to _Intro to Computer Music_ (Spring 2026 edition) taught by [Chris Donahue](https://chrisdonahue.com) through CMU's Computer Science Department. This course was originally designed by [Roger B. Dannenberg](https://www.cs.cmu.edu/~rbd/). Special thanks to [Tom Cortina](https://www.cs.cmu.edu/~tcortina/) for additional help with course design and guest lectures this semester.
