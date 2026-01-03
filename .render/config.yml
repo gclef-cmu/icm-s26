@@ -1,7 +1,9 @@
-site_title: "Markdown Publisher"
+site_title: "🎵 15-322/622 Introduction to Computer Music"
 home_md: "README.md"
 nav:
   - Home: "README.md"
-  - Blog: "blog/index.md"
-  - Links: "links.md"
-  - GitHub: "https://github.com/chrisdonahue/md-pub"
+  - About: "about.md"
+  - Syllabus: "syllabus.md"
+  - Calendar: "calendar.md"
+  - Projects: "projects/index.md"
+  - Resources: "resources.md"

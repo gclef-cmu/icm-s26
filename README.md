@@ -17,4 +17,4 @@
 
 ## Description
 
-Welcome to CMU/SCS Intro to Computer Music, Spring 2025 edition, taught by Chris Donahue, and previously designed by Roger B. Dannenberg! Special thanks to Tom Cortina for his help with the course design, content, and guest lectures this semester.
+Welcome to CMU/SCS Intro to Computer Music, Spring 2026 edition, taught by [Chris Donahue](https://chrisdonahue.com) and previously designed by [Roger B. Dannenberg](https://www.cs.cmu.edu/~rbd/). Special thanks to [Tom Cortina](https://www.cs.cmu.edu/~tcortina/) for his help with the course design, content, and guest lectures this semester.
