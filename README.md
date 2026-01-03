@@ -1,42 +1,20 @@
-# Markdown Publisher
+# CMU 15-322/622 Introduction to Computer Music, Spring 2026
 
-Markdown Publisher (`md-pub`) enables clean, rapid deployment of Markdown content as static HTML via GitHub Actions/Pages. A "keep it simple" alternative to things like Jekyll, Hugo, etc.
+## Quick Links
 
-**Code**: https://github.com/chrisdonahue/md-pub
+- [Schedule](TODO)
+- [Google Drive](TODO)
+- [Piazza](TODO)
 
-**Output**: https://chrisdonahue.com/md-pub
+## Important information
 
-## Features
+- **Class sessions**: MW 11:00A-12:20P, GHC 4303
+- **Instructor**: [Chris Donahue](https://chrisdonahue.com)
+  - **Office hours**: W 12:30P-1:30P, GHC 7127
+- **TAs**:
+  - **David Liu**: Office Hours TBD
+  - **Marco Cardenes**: Office Hours TBD
 
-- Clean Markdown structure, mirrored 1:1 in HTML
-- Uses GitHub Actions to build and deploy the site to GitHub Pages
-- Small, hackable JS codebase (see `.render` directory)
-- Arbitrary static assets (images, etc.)
-- Multiple pages, directories, [relative links](./lorem) and [anchors](#usage-instructions)
-- YAML frontmatter metadata support
-- MIT licensed
+## Description
 
-## Usage instructions
-
-1. Fork the repository (probably change the repo name as well)
-1. Go to your repository settings and enable GitHub Pages via GitHub Actions
-1. Edit the `README.md` (or any other markdown file) with your content
-1. Edit `.render/config.yml` to your liking
-1. Customize `.render/template` to your liking
-1. Commit and push the changes
-1. Wait for the GitHub Actions to build and deploy the site
-
-### Testing locally
-
-```sh
-npm init -y
-npm install marked jsdom dompurify js-yaml
-node .render/render.js
-python3 -m http.server --directory _site 8080
-```
-
-## Assets
-
-Put your assets anywhere in the repo and use them as expected:
-
-![Markdown Publisher Logo](./markdown.svg)
+Welcome to CMU/SCS Intro to Computer Music, Spring 2025 edition, taught by Chris Donahue, and previously designed by Roger B. Dannenberg! Special thanks to Tom Cortina for his help with the course design, content, and guest lectures this semester.
