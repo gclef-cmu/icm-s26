@@ -11,7 +11,7 @@ menu:
 The following projects have been released (this list will update over time):
 
 - **There are two options for Project 6** due Monday, April 7 by 11:59PM Eastern (Peer grading due by Monday, April 14 by 11:59PM Eastern)
-  - [Project 6: Original Option]({{< relref "project6.md" >}})  turned in via ATutor
+  - [Project 6: Original Option]({{< relref "project6.md" >}}) turned in via ATutor
   - [Project 6: Experimental Python Option]({{< relref "project6_python.md" >}}) turned in via Gradescope
 - [Project 5]({{< relref "project5.md" >}}) due Monday, March 24 by 11:59PM Eastern (Peer grading due by Monday, March 31 by 11:59PM Eastern)
 - [Project 4]({{< relref "project4.md" >}}) due Monday, March 10 by 11:59PM Eastern (Peer grading due by Monday, March 17 by 11:59PM Eastern)
@@ -60,7 +60,7 @@ For projects where you have subfolders, use the -r option to recursively include
 
 You can resubmit up to the deadline (and beyond if you wish to accept a late penalty). The last possible submission time is one day before the end of peer grading, usually 6 days after the posted submission deadline.
 
-### Peer Grading in ATutor – General Instructions
+### Peer Grading
 
 24 hours after the submission deadline, peer grading begins. You are expected to grade 3 submissions from your peers.
 Log in to ATutor again after the start of peer grading and look under the Project tab. You are expected to peer grade three projects from other students. You may do extra peer grading for extra credit. But there is a penalty if you peer grade less than 3 projects.
