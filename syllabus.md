@@ -63,7 +63,7 @@ Throughout the semester you will have **3** grace days for late delivery of Proj
 
 Grades will be determined through a combination of autograding and peer/TA grading. You will be asked to participate in peer grading by evaluating 3 projects submitted by your peers. It is possible to earn bonus points by evaluating more than 3 projects. Evaluating less than 3 projects will result in a loss of points. **Peer grading cannot be submitted past the deadline posted for peer grading.**
 
-**Submitting empty or trivial ("Cool!") written feedback on peer grading may also result in a loss of points**.
+**Submitting _vacuous_ (empty or trivial) written feedback for peer grading, e.g. "Cool!", may also result in a loss of points**.
 
 For additional details of the project grading policy see [this page](projects#grading-policies).
 
@@ -73,7 +73,7 @@ For additional details of the project grading policy see [this page](projects#gr
 
 **Lectures will be recorded but will not be posted until exam review later in the semester**. Hence, come to lecture!
 
-**If you are sick or otherwise cannot attend due to health reasons, please do not come to lecture**. Instead, send the TAs or instructors a **private message on Piazza** with the subject `[Absence due to illness]` and we will provide you with the recording. You will not be penalized for an absence if you message us briefly explaining that you had a health issue and could not attend. More than several instances of missed classes due to illness will prompt us to notify Student Support Resources to check on your well-being.
+**If you are sick or otherwise cannot attend due to health reasons, please do not come to lecture**. Instead, send the TAs or instructors a **private message on Piazza** with the subject `Absence due to illness` and we will provide you with the recording. You will not be penalized for an absence if you message us briefly explaining that you had a health issue and could not attend. More than several instances of missed classes due to illness will prompt us to notify Student Support Resources to check on your well-being.
 
 Besides lectures and exams, **there will be one additional attendance requirement**, when we will hold a **Computer Music Concert** featuring some of the best work from the final class project assignment in 15322/15622. A separate attendance score will be factored in to your project grade for this final assignment. This concert will be held on or near the last day of the semester before the final exam period. There will be several sessions so that we can find a session that won’t conflict with your other classes and obligations.
 
@@ -139,6 +139,14 @@ Your first task is to define a new instrument, also in the file `instr.sal``, th
 
 ## Academic Integrity
 
+**We enforce a high standard of academic integrity in this course**. This is not a "hypothetical" policy, here are concrete examples of academic dishonesty in past years of this course which resulted in charged academic integrity violations:
+
+- Two students working together to complete programming assignments where working individually was expecting
+- A student submitting lightly edited programming assignments from a friend who took the course previously
+- A student submitting tutorial code found online as part of their project submission without any form of acknowledgement
+
+At a high level, our policy amounts to: **do your own original work as expected, and be very generous with giving credit where appropriate** (e.g., if you used sound examples from online). More details provided below.
+
 All students are expected to be familiar with, and to comply with, the [University Policy on Cheating and Plagiarism](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).
 
 We regard programming, especially for sound and music, as a creative process. There is never just one way to program a task, and tasks in this course intentionally require some creativity.
@@ -170,16 +178,3 @@ If you or someone you know is feeling suicidal or in danger of self-harm, call s
   - Off campus: 911
 
 If you have questions or concerns about this or your coursework, please let us know.
-
-## Diversity, Equity and Inclusion
-
-**We must treat every individual with respect.** We are diverse in many ways, and this diversity is fundamental to building and maintaining an equitable and inclusive campus community. Diversity can refer to multiple ways that we identify ourselves, including but not limited to race, color, national origin, language, sex, disability, age, sexual orientation, gender identity, religion, creed, ancestry, belief, veteran status, or genetic information. Each of these diverse identities, along with many others not mentioned here, shape the perspectives our students, faculty, and staff bring to our campus. We, at CMU, will work to promote diversity, equity and inclusion not only because diversity fuels excellence and innovation, but because we want to pursue justice. We acknowledge our imperfections while we also fully commit to the work, inside and outside of our classrooms, of building and sustaining a campus community that increasingly embraces these core values.
-
-Each of us is responsible for creating a safer, more inclusive environment.
-
-Unfortunately, incidents of bias or discrimination do occur, whether intentional or unintentional. They contribute to creating an unwelcoming environment for individuals and groups at the university. Therefore, the university encourages anyone who experiences or observes unfair or hostile treatment on the basis of identity to speak out for justice and support, within the moment of the incident or after the incident has passed. Anyone can share these experiences using the following resources:
-
-- **Center for Student Diversity and Inclusion**: csdi@andrew.cmu.edu, (412) 268-2150
-- **Report-It online anonymous reporting platform**: http://reportit.net username: _tartans_ password: _plaid_
-
-All reports will be documented and deliberated to determine if there should be any following actions. Regardless of incident type, the university will use all shared experiences to transform our campus climate to be more equitable and just.
