@@ -55,7 +55,7 @@ For projects where you have subfolders, use the -r option to recursively include
 
 **Important**. Once you are satisfied with your auto grade, make sure you press **Confirm** to lock in your submission.
 
-![Visualization of fade types](/images/projects/atutor_confirm.png)
+![ATutor confirmation example](./images/atutor_confirm.png)
 
 You can resubmit up to the deadline (and beyond if you wish to accept a late penalty). The last possible submission time is one day before the end of peer grading, usually 6 days after the posted submission deadline.
 

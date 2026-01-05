@@ -9,7 +9,7 @@ description: ""
 
 You may have forgotten to click the "Confirm" button after receiving your auto grade. Unfortunately we can't accept this as an excuse as we have no way of determining if you were actually finished ahead of time. Please be careful!
 
-![Visualization of fade types](/images/projects/atutor_confirm.png)
+![ATutor confirmation example](./projects/images/atutor_confirm.png)
 
 ## Latest Nyquist setup instructions
 
