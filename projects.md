@@ -10,19 +10,21 @@ menu:
 
 The following projects have been released (this list will update over time):
 
-- **There are two options for Project 6** due Monday, April 7 by 11:59PM Eastern (Peer grading due by Monday, April 14 by 11:59PM Eastern)
-  - [Project 6: Original Option]({{< relref "project6.md" >}}) turned in via ATutor
-  - [Project 6: Experimental Python Option]({{< relref "project6_python.md" >}}) turned in via Gradescope
-- [Project 5]({{< relref "project5.md" >}}) due Monday, March 24 by 11:59PM Eastern (Peer grading due by Monday, March 31 by 11:59PM Eastern)
-- [Project 4]({{< relref "project4.md" >}}) due Monday, March 10 by 11:59PM Eastern (Peer grading due by Monday, March 17 by 11:59PM Eastern)
-- [Project 3]({{< relref "project3.md" >}}) due Monday, February 17 by 11:59PM Eastern (Peer grading due by Monday, February 24 by 11:59PM Eastern)
-- [Project 2]({{< relref "project2.md" >}}) due Monday, February 3 by 11:59PM Eastern (Peer grading due by Monday, February 10 by 11:59PM Eastern)
-- [Project 1]({{< relref "project1.md" >}}) due Tuesday, January 21 by 11:59PM Eastern (Peer grading due by Tuesday, January 28 by 11:59PM Eastern)
-- [Project 0]({{< relref "project0.md" >}}) due Wednesday, January 15 by 11:59PM Eastern (Peer grading due Wednesday, January 22 by 11:59PM Eastern)
+<!--
+- [Project 7](projects/7.md) due Sunday, April 19, 2026 by 11:59PM Eastern (No peer grading. NO LATE DAYS ALLOWED)
+- [Project 6](projects/6.md) due Sunday, April 5, 2026 by 11:59PM Eastern (Peer grading due by Sunday, April 12, 2026 by 11:59PM Eastern)
+- [Project 5](projects/5.md) due Sunday, March 22, 2026 by 11:59PM Eastern (Peer grading due by Sunday, March 29, 2026 by 11:59PM Eastern)
+- [Project 4](projects/4.md) due Sunday, March 8, 2026 by 11:59PM Eastern (Peer grading due by Sunday, March 15, 2026 by 11:59PM Eastern)
+- [Project 3](projects/3.md) due Sunday, February 15, 2026 by 11:59PM Eastern (Peer grading due by Sunday, February 22, 2026 by 11:59PM Eastern)
+- [Project 2](projects/2.md) due Sunday, February 1, 2026 by 11:59PM Eastern (Peer grading due by Sunday, February 8, 2026 by 11:59PM Eastern)
+-->
 
-**For 15622 students (grad students) only**: [Term project]({{< relref "project622.md" >}})
+- [Project 1](projects/1.md) due Tuesday, January 20, 2026 by 11:59PM Eastern (Peer grading due by Tuesday, January 27, 2026 by 11:59PM Eastern)
+- [Project 0](projects/0.md) due Tuesday, January 13, 2026 by 11:59PM Eastern (Peer grading due by Tuesday, January 20, 2026 by 11:59PM Eastern)
 
-**NOTE: All students must read the policies on this syllabus and fill out [this form](https://forms.gle/DmrAMYQSJiz8qSe58) by the end of week 1 (Fri Jan 17).**
+**For 15622 students (grad students) only**: [Term project](projects/622-term.md)
+
+**NOTE: All students must read the policies on this syllabus and fill out [this form](https://forms.gle/DmrAMYQSJiz8qSe58) by the end of week 1 (Fri Jan 16).**
 
 See below for [instructions on submitting projects via ATutor](#submitting-projects) and [project grading policies](#grading-policies)
 

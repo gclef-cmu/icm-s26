@@ -5,15 +5,15 @@ description: ""
 
 ## Key dates:
 
-**<span style="color:red;">For grad students only, a discussion about this project will be held immediately after exam 1 on Thursday February 13. (Exam 1 is only 40 minutes).</span>**
+**<span style="color:red;">For grad students only, a discussion about this project will be held immediately after exam 1 on Wednesday February 11. (Exam 1 is only 40 minutes).</span>**
 
-**Proposal due Thursday, February 20**. If you need more time, this may be submitted **_no later than February 27_ at 11:59PM** if you need more time, but better to submit early to allow more time to iterate on the proposal with the instructor.
+**Proposal due Wednesday February 18**. If you need more time, this may be submitted **_no later than February 25_ at 11:59PM** if you need more time, but better to submit early to allow more time to iterate on the proposal with the instructor.
 
-**Interim Report due Thursday, April 3**.
+**Interim Report due Wednesday, April 1**.
 
-**In class presentation on Tuesday April 22 or Thursday April 24** (you will be assigned to one of these dates).
+**In class presentation on Monday April 20 or Wednesday April 22** (you will be assigned to one of these dates).
 
-**Final written project report due Friday April 25 at 11:59PM**
+**Final written project report due Friday April 24 at 11:59PM**
 
 ## Overview
 
@@ -85,13 +85,13 @@ Your project will probably not have to have all these features, but we hope this
 
 The project has several parts:
 
-## Part 1: Proposal (due <span style="color:red;">Thursday, February 20, 2025</span> – may be submitted up through Thursday, February 27, 2025 if you need additional time)
+## Part 1: Proposal (due <span style="color:red;">Wednesday, February 18, 2026</span> – may be submitted up through Wednesday, February 25, 2026 if you need additional time)
 
 A proposal is required. Your proposal should state clearly:
 
 - the general nature of what you will implement,
 - what code, journal articles, etc. you will rely on, port, implement, modify, etc.,
-- a significant milestone that you will report/deliver as the interim report (note, due on April 4th, so think about what you can do in about a month)
+- a significant milestone that you will report/deliver as the interim report (note, due on April 1st, so think about what you can do in about a month)
 - a specific list of deliverables for your final project submission
 - how will you measure your success? E.g. what functionality will you demonstrate?
 
@@ -99,13 +99,13 @@ All projects must be approved by the instructors, so this really is a proposal. 
 
 **SUBMISSION: Submit your proposal (as a PDF file) by email to chrisdonahue@cmu.edu with the subject “15-622 Proposal”. Please CC tcortina@cs.cmu.edu as well.**
 
-## Part 2: Interim Report (due <span style="color:red;">Thursday, April 3, 2025</span>)
+## Part 2: Interim Report (due <span style="color:red;">Wednesday, April 1, 2026</span>)
 
 An interim report is required. Ideally, you will have completed the milestone described in your project proposal. If you fail, you should describe clearly what you have done, what problems you encountered, whether this will affect your ability to finish the project as planned, and any modifications (subject to instructor approval) you feel you should make to the project.
 
 **SUBMISSION: You should submit the report as a PDF file by email to chrisdonahue@cmu.edu. Please cc tcortina@cs.cmu.edu as well.** You may attach a zip file with interim code as long as the TOTAL submission including PDF is less than 1MB. If you have sound results, more code, and other data to substantiate your report, put it somewhere on the web and include a link in your email.
 
-## Part 3A: IN CLASS Presentation (<span style="color:red;">Tuesday, April 22, 2025</span> and <span style="color:red;">Thursday, April 24, 2025</span>)
+## Part 3A: IN CLASS Presentation (<span style="color:red;">Monday, April 20, 2026</span> and <span style="color:red;">Wednesday, April 22, 2026</span>)
 
 You will present your project to the class. Plan for 10 minutes maximum. This is a very short presentation. You should present your work in three parts. Use slides (preferably PowerPoint) to supplement your talk.
 
@@ -121,7 +121,7 @@ _If you have sound file examples (recommended):_
 
 Please rehearse your talk. It is expected to be fairly polished, be precisely timed, and effectively communicate your achievements w/ the undergraduate students.
 
-## Part 3B: The Final Written Project Submission (due <span style="color:red;">Friday, April 25, 2025</span>)
+## Part 3B: The Final Written Project Submission (due <span style="color:red;">Friday, April 24, 2026</span>)
 
 Your goal is to prepare a complete package of software, documentation, example code, and sound examples. For example, if your project were to create a phase vocoder, you would submit the software implementation, document how to apply the vocoder and use all the parameters, provide code examples that apply the vocoder to a test sound, and one or more sounds that illustrate the effect of the vocoder. Another student should be able to use the vocoder given your final submission. **Your submission should reflect what you presented during the week in class. You should not be changing significant portions of your project between the presentation and the written project deadline.**
 
