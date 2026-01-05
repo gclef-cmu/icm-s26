@@ -21,7 +21,7 @@ The following projects have been released (this list will update over time):
 
 **For 15622 students (grad students) only**: [Term project](./622-term)
 
-**NOTE: All students must read the policies on this syllabus and fill out [this form](https://forms.gle/DmrAMYQSJiz8qSe58) by the end of week 1 (Fri Jan 16).**
+**NOTE: All students must read the policies on this syllabus and fill out [this form]($INTEGRITY) by the end of week 1 (Fri Jan 16).**
 
 See below for [instructions on submitting projects via ATutor](#submitting-projects) and [project grading policies](#grading-policies)
 
@@ -49,7 +49,7 @@ For projects where you have subfolders, use the -r option to recursively include
 
 **Make sure submissions are anonymous** (for peer grading). You will lose points if your submission is not anonymous.
 
-1. Log into ATutor at: https://icm.music.cs.cmu.edu/icm-s25
+1. Log into ATutor at: $ATUTOR
 1. Use the Project tab and upload the project zip file.
 1. After a reasonable delay (depending on submission size and server load), you should get an “autograde” and comments to explain what was wrong if anything.
 

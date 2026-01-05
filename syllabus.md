@@ -7,43 +7,26 @@ description: ""
 
 ## At-a-glance
 
-**NOTE: All students must read the policies on this syllabus and fill out [this form](https://forms.gle/DmrAMYQSJiz8qSe58) by the end of week 1 (Fri Jan 17).**
+**NOTE: All students must read the policies on this syllabus and fill out [this form]($INTEGRITY) by the end of week 1 (Fri Jan 16).**
 
-- Time: **Tuesdays and Thursdays 9:30AM - 10:50AM Eastern Time**
-- Location: **Baker Hall A36 (in person)**
-- Content week-by-week and deadlines on the [Schedule](schedule)
+- Time: **Monday and Wednesday, 11:00A-12:20P**
+- Location: **Gates 4303 (in person, attendance required)**
+- Content week-by-week and deadlines on the [Schedule](./schedule)
 - Course numbers: 15-322 (for undergrads), 15-622 (for grads)
-- Instructors: [Chris Donahue](https://chrisdonahue.com), [Tom Cortina](https://www.cs.cmu.edu/~tcortina/)
-  - Contact [icm-csd@cmu.edu](mailto:icm-csd@cmu.edu) or on [Piazza](https://piazza.com/class/m5suwbtrswv358), class-related emails to other addresses will be ignored
-  - Office hours on [Calendar](calendar)
-- Course designer, Nyquist developer: [Roger Dannenberg](https://www.cs.cmu.edu/~rbd/)
-- TAs: [Ben Stoler](https://benstoler.com/), [Irmak Bukey](https://irmakbky.github.io/), [Wayne Chi](https://www.waynechi.com/), Tianyue Ruby Sun
-  - Contact all TAs through [Piazza](https://piazza.com/class/m5suwbtrswv358)
-- [Important resources](resources)
-  - [Piazza](https://piazza.com/class/m5suwbtrswv358) for discussion and announcements
-  - [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y183NjY5MjQ4OTEzMWJlMGU2NDk3MDA0ODNmMWUxNTY0ODhkNjRlZjEyMmFiZTI5MmVkOWFlODJjYjUxOTAzZjM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for important dates, office hours schedule and locations.
-  - [Google Drive folder](https://drive.google.com/drive/folders/1i-VToYcD1oMcy8rnYNfPb2zTRQ6XxpeT?usp=drive_link) for slides and recordings (won't be posted until exam review)
-  - [ATutor](https://icm.music.cs.cmu.edu/icm-s25) for assignment submission
-  - [Order textbook](https://a.co/d/brdIW0f) ([chapter PDFs](https://icm.music.cs.cmu.edu/icm-online/text/))
-    - [NyquistIDE](https://sourceforge.net/projects/nyquist/) (see installation instructions under [resources](resources#latest-nyquist-setup-instructions))
-    - [Audacity](https://www.audacityteam.org/download/)
+- Contact course staff by emailing [$EMAIL](mailto:$EMAIL) or posting private mesage on [Piazza]($PIAZZA)
+- Other important information and links on [home page](./README)
 
 ## Textbooks
 
-The textbook for the course is **[_Introduction to Computer Music (3rd Edition)_](https://a.co/d/brdIW0f) by Roger B. Dannenberg** and can [purchased from Amazon](https://a.co/d/brdIW0f) in both ebook and physical formats. You may also access PDFs of individual chapters [here](https://icm.music.cs.cmu.edu/icm-online/text/).
+The primary textbook for the course is **[_Introduction to Computer Music (3rd Edition)_]($BOOKBUY) by Roger B. Dannenberg**. It is recommended that you [purchase a digital or physical copy from Amazon]($BOOKBUY). You may also access PDFs of individual chapters [here]($BOOKCHROOT), though the cross-chapter links will not work.
+
+A couple of the course readings will center around the secondary textbook of **[_Digital Signals Theory_](https://brianmcfee.net/dstbook-site/content/intro.html) by Brian McFee**. This book is [available online](https://brianmcfee.net/dstbook-site/content/intro.html) and can also be [purchased from Amazon](https://www.amazon.com/Digital-Signals-Theory-Brian-McFee/dp/1032200502) if you prefer.
 
 You will also likely need to refer to the Nyquist Reference Manual ([PDF](https://www.cs.cmu.edu/~rbd/doc/nyquist/nyquistman.pdf), [HTML](https://www.cs.cmu.edu/~rbd/doc/nyquist/index.html)) at times for help related to Nyquist, the programming language for the course. The first half (up to the chapter "Nyquist Functions") is intended to be introductory and explanatory, so please use this to supplement the text for additional information about Nyquist.
 
-### Optional textbooks
-
-The following texts are completely optional but may be helpful as supplementary material:
-
-- [_Algorithmic Composition_](https://press.umich.edu/Books/A/Algorithmic-Composition2) by Mary Simoni and Roger B. Dannenberg. [Link to electronic version in CMU library](https://cmu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991019513995704436&context=L&vid=01CMU_INST:01CMU&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,algorithmic%20composition).
-- [_The Computer Music Tutorial_](https://www.amazon.com/Computer-Music-Tutorial-second-dp-0262044919/dp/0262044919/ref=dp_ob_title_bk) by Curtis Roads. [Link to electronic version in CMU library](https://cmu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991019486715904436&context=L&vid=01CMU_INST:01CMU&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Everything&query=any,contains,computer%20music%20tutorial&sortby=date_d&facet=frbrgroupid,include,9019777044576965786&mode=Basic&offset=0). Broader in scope than this course.
-
 ## 15-322 vs. 15-622
 
-For graduate students this course is offered as 15-622. Students taking the course under 15-622 are expected to execute an [ambitious semester-long project](project622) in addition to all the other requirements of 15-322. Details of this project will be posted before the first exam.
+For graduate students this course is offered as 15-622. Students taking the course under 15-622 are expected to execute an [ambitious term project](./projects/622-term) in addition to all the other requirements of 15-322. A proposal for this project is due shortly after the first exam in the course.
 
 ## Grading
 

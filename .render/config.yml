@@ -8,6 +8,12 @@ nav:
   - Projects: "projects/index.md"
   - Resources: "resources.md"
 variables:
+  - "$EMAIL": "icm-csd@cmu.edu"
+  - "$INTEGRITY": "https://forms.gle/jJL12x1tyybki7KE6"
   - "$ATUTOR": "https://icm.music.cs.cmu.edu/icm-s26"
   - "$DRIVE": "https://drive.google.com/drive/u/0/folders/1FR-i0Tiqi3tBfU1WdVpcW_d0-8P6T1rh"
   - "$PIAZZA": "TODO"
+  - "$BOOKBUY": "https://a.co/d/brdIW0f"
+  - "$BOOKCHROOT": "https://icm.music.cs.cmu.edu/icm-online/text"
+  - "$MCFEEROOT": "https://brianmcfee.net/dstbook-site/content"
+  - "$CALENDAR": "https://calendar.google.com/calendar/embed?src=c_c1e9eec17920502a573460def0e0800cd81f977924ec02332205b92d7de952c6%40group.calendar.google.com&ctz=America%2FNew_York"

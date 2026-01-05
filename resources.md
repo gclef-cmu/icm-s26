@@ -3,20 +3,6 @@ title: "Resources"
 description: ""
 ---
 
-# Resources
-
-- [Piazza](https://piazza.com/class/m5suwbtrswv358) for discussion and announcements
-- [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y183NjY5MjQ4OTEzMWJlMGU2NDk3MDA0ODNmMWUxNTY0ODhkNjRlZjEyMmFiZTI5MmVkOWFlODJjYjUxOTAzZjM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for important dates, office hours schedule and locations.
-- [Google Drive folder](https://drive.google.com/drive/folders/1i-VToYcD1oMcy8rnYNfPb2zTRQ6XxpeT?usp=drive_link) for slides and recordings (won't be posted until exam review)
-- [ATutor](https://icm.music.cs.cmu.edu/icm-s25) for assignment submission
-- [Order textbook](https://a.co/d/brdIW0f) ([chapter PDFs](https://icm.music.cs.cmu.edu/icm-online/text/))
-- Software:
-  - [NyquistIDE](https://sourceforge.net/projects/nyquist/) (see installation instructions [below](#latest-nyquist-setup-instructions))
-  - [Audacity](https://www.audacityteam.org/download/)
-- Nyquist language built-ins reference
-  - [SAL basics](https://www.cs.cmu.edu/~rbd/doc/nyquist/part7.html#50)
-  - [Functions](https://www.cs.cmu.edu/~rbd/doc/nyquist/part8.html)
-
 ## FAQ
 
 ### I submitted my project before the deadline - why is my grade a 0?
@@ -77,4 +63,7 @@ You may have forgotten to click the "Confirm" button after receiving your auto g
 - [Audacity user manual](https://manual.audacityteam.org/)
 - [ICM Playlist (by Jesse Stiles)](https://open.spotify.com/playlist/3VzPJ5idcjoZghHjuQAZUT?si=IrCH_oZfQqOqoe-RcwN94w&nd=1)
 - [Max demos (from Jesse Stiles)](https://drive.google.com/drive/folders/1wC5iP-rP6jvPopqGFO_vD7q6m7Aquwxr)
+- Other optional textbooks and resources:
+  - [_Algorithmic Composition_](https://press.umich.edu/Books/A/Algorithmic-Composition2) by Mary Simoni and Roger B. Dannenberg. [Link to electronic version in CMU library](https://cmu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991019513995704436&context=L&vid=01CMU_INST:01CMU&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,algorithmic%20composition).
+  - [_The Computer Music Tutorial_](https://www.amazon.com/Computer-Music-Tutorial-second-dp-0262044919/dp/0262044919/ref=dp_ob_title_bk) by Curtis Roads. [Link to electronic version in CMU library](https://cmu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991019486715904436&context=L&vid=01CMU_INST:01CMU&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Everything&query=any,contains,computer%20music%20tutorial&sortby=date_d&facet=frbrgroupid,include,9019777044576965786&mode=Basic&offset=0). Broader in scope than this course.
 - [International computer music association](http://www.computermusic.org/)
