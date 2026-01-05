@@ -14,20 +14,20 @@ You may have forgotten to click the "Confirm" button after receiving your auto g
 ## Latest Nyquist setup instructions
 
 - Install the Java JDK (if you haven’t already):
-  - Download JDK 17 from https://www.oracle.com/java/technologies/downloads/#java17 and run the installer
+  - Download JDK 17 from https://www.oracle.com/java/technologies/downloads/#java17 for your specific operating system and run the installer
   - **Note**: For Macbooks w/ Apple silicon (M1/M2/M3), make sure to select the “ARM64 DMG Installer”
   - **Note**: Make sure you install a recent version of the JDK (>=17). Other common installations of Java (e.g., JRE Version 8) will _not_ run NyquistIDE.
 - Install Nyquist
-  - Download [latest version of Nyquist](https://sourceforge.net/projects/nyquist/files/nyquist/3.23) and run installer
-    - **Note**: For newer Macs w/ Apple Silicon (M1/M2/M3), download `nyquist-install-arm-323.dmg`. For Macs w/ Intel chips, download `nyquist-install-intel-323.dmg`
+  - Download [latest version of Nyquist](https://sourceforge.net/projects/nyquist/files/nyquist/3.24) and run installer
+    - **Note**: For newer Macs w/ Apple Silicon (M1/M2/M3), download `nyquist-install-arm-324.dmg`. For Macs w/ Intel chips, download `nyquist-install-intel-324.dmg`
   - macOS installation
-    - Open `nyquist-install-{arm,intel}-323.dmg`
+    - Open `nyquist-install-{arm,intel}-324.dmg`
     - Open Finder
     - Press Cmd+Shift+H to navigate to your home directory, drag the “nyquist” folder into it
     - Click on “Applications” on the left side and drag “NyquistIDE” into it
     - Ctrl+Click on NyquistIDE in your Applications and press “Open”
   - Windows installation
-    - Double click on “setupnyqiderun322.exe”
+    - Double click on `setupnyqiderun324.exe`
     - Click “Run Anyway”
     - Additional troubleshooting information can be found here: https://www.cs.cmu.edu/~rbd/doc/nyquist/index.html
 
