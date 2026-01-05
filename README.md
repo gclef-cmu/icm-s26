@@ -2,11 +2,11 @@
 
 ## Links
 
-- [ATutor](https://icm.music.cs.cmu.edu/icm-s26)
-- [Syllabus](syllabus)
-- [Schedule](schedule)
-- [Google Drive](https://drive.google.com/drive/u/0/folders/1FR-i0Tiqi3tBfU1WdVpcW_d0-8P6T1rh)
-- [Piazza](TODO)
+- [ATutor]($ATUTOR)
+- [Syllabus](./syllabus)
+- [Schedule](./schedule)
+- [Google Drive]($DRIVE)
+- [Piazza]($PIAZZA)
 
 ## Info
 
