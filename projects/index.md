@@ -64,7 +64,7 @@ You can resubmit up to the deadline (and beyond if you wish to accept a late pen
 24 hours after the submission deadline, peer grading begins. You are expected to grade 3 submissions from your peers.
 Log in to ATutor again after the start of peer grading and look under the Project tab. You are expected to peer grade three projects from other students. You may do extra peer grading for extra credit. But there is a penalty if you peer grade less than 3 projects.
 
-**Your peer grade comments must be meaningful and scores must be reasonable based on what score the TA assigns. If you submit a superfluous peer grade (e.g. a high grade when there were clearly major things wrong with the project) or a score without any feedback, we reserve the right to invalidate your peer review and adjust your own project score.**
+**Your peer grade comments must be meaningful and scores must be reasonable based on what score the TA assigns. If you submit an _inaccurate_ peer grade (e.g. a high grade when there were clearly major things wrong with the project), or a _vacuous_ one (little to no feedback), we reserve the right to invalidate your peer review and adjust your own project score.**
 
 Please review the additional instructions to peer graders you will see each time you go to do peer grading.
 
