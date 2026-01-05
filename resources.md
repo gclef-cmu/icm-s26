@@ -1,12 +1,9 @@
 ---
 title: "Resources"
 description: ""
-featured_image: ""
-omit_header_text: true
-menu:
-  main:
-    weight: 5
 ---
+
+# Resources
 
 - [Piazza](https://piazza.com/class/m5suwbtrswv358) for discussion and announcements
 - [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y183NjY5MjQ4OTEzMWJlMGU2NDk3MDA0ODNmMWUxNTY0ODhkNjRlZjEyMmFiZTI5MmVkOWFlODJjYjUxOTAzZjM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for important dates, office hours schedule and locations.
@@ -50,7 +47,7 @@ You may have forgotten to click the "Confirm" button after receiving your auto g
 
 ### (Optional) Command Line Nyquist setup instructions
 
-- We strongly recommend students use NyquistIDE for all Nyquist programming this semester. 
+- We strongly recommend students use NyquistIDE for all Nyquist programming this semester.
   However, should you prefer your own IDE, we also provide instructions below on how to interact with the Nyquist interpreter
   through the command line. Proceed with caution - instructors / TAs may be unable to help you with any issues you encounter
   outside of NyquistIDE.
@@ -60,7 +57,7 @@ You may have forgotten to click the "Confirm" button after receiving your auto g
   - It's recommended to add an alias to your `zshrc` (or `bashrc`, if using Bash) to this executable, as below:
     - `alias nyquist=/Applications/NyquistIDE.app/Contents/Java/ny`
 - Next, locate your `nyquist` folder from installation, likely at `/Users/[your username]/nyquist`, and confirm
-  that it contains a `lib` and `runtime` folder;  Add the following to your `zshrc`:
+  that it contains a `lib` and `runtime` folder; Add the following to your `zshrc`:
   - `export XLISPPATH=/Users/[your username]/nyquist/runtime:/Users/[your username]/nyquist/lib`
   - Make sure to update the above paths to match your own installation.
   - Now you should be able to able utilize the `nyquist` REPL from anywhere on your system, such as within a VSCode terminal!

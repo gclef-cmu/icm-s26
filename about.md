@@ -2,10 +2,6 @@
 title: "About"
 description: ""
 featured_image: ""
-omit_header_text: true
-menu:
-  main:
-    weight: 2
 ---
 
 # About _Intro to Computer Music_

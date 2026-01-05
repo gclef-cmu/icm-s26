@@ -3,6 +3,8 @@ title: "15-622 Term Project (Grad students only)"
 description: ""
 ---
 
+# 15-622 Term Project (Grad students only)
+
 ## Key dates:
 
 **<span style="color:red;">For grad students only, a discussion about this project will be held immediately after exam 1 on Wednesday February 11. (Exam 1 is only 40 minutes).</span>**
