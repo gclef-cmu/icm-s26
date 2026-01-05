@@ -19,7 +19,7 @@ The schedule below is subject to minor modifications. Associated readings from t
 **Week 1: Introduction to Computer Music**
 
 - Monday, January 12 – Fundamentals of Sound and Sampling, Audacity tutorial ([1.1-1.2](https://icm.music.cs.cmu.edu/icm-online/text/chapter01.pdf))
-  - <span style="color:orange">_[Start Project 0 (Hello Nyquist)](projects/0) – due Tuesday, January 13 by 11:59PM Eastern_</span>
+  - <span style="color:orange">_[Start Project 0 (Hello Nyquist)](./projects/0) – due Tuesday, January 13 by 11:59PM Eastern_</span>
 - Wednesday, January 14 – Introduction to Nyquist and SAL ([1.3-1.9](https://icm.music.cs.cmu.edu/icm-online/text/chapter01.pdf), [2.2](https://icm.music.cs.cmu.edu/icm-online/text/chapter02.pdf))
   - <span style="color:orange">_[Start Project 1 (Audacity and Nyquist)](projects/1) – due Tuesday, January 20 by 11:59PM Eastern_</span>
 
