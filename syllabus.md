@@ -14,21 +14,21 @@ menu:
 
 - Time: **Tuesdays and Thursdays 9:30AM - 10:50AM Eastern Time**
 - Location: **Baker Hall A36 (in person)**
-- Content week-by-week and deadlines on [Calendar]({{< relref "calendar.md" >}})
+- Content week-by-week and deadlines on [Calendar](calendar)
 - Course numbers: 15-322 (for undergrads), 15-622 (for grads)
 - Instructors: [Chris Donahue](https://chrisdonahue.com), [Tom Cortina](https://www.cs.cmu.edu/~tcortina/)
   - Contact [icm-csd@cmu.edu](mailto:icm-csd@cmu.edu) or on [Piazza](https://piazza.com/class/m5suwbtrswv358), class-related emails to other addresses will be ignored
-  - Office hours on [Calendar]({{< relref "calendar.md" >}})
+  - Office hours on [Calendar](calendar)
 - Course designer, Nyquist developer: [Roger Dannenberg](https://www.cs.cmu.edu/~rbd/)
 - TAs: [Ben Stoler](https://benstoler.com/), [Irmak Bukey](https://irmakbky.github.io/), [Wayne Chi](https://www.waynechi.com/), Tianyue Ruby Sun
   - Contact all TAs through [Piazza](https://piazza.com/class/m5suwbtrswv358)
-- [Important resources]({{< relref "resources.md" >}})
+- [Important resources](resources)
   - [Piazza](https://piazza.com/class/m5suwbtrswv358) for discussion and announcements
   - [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y183NjY5MjQ4OTEzMWJlMGU2NDk3MDA0ODNmMWUxNTY0ODhkNjRlZjEyMmFiZTI5MmVkOWFlODJjYjUxOTAzZjM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for important dates, office hours schedule and locations.
   - [Google Drive folder](https://drive.google.com/drive/folders/1i-VToYcD1oMcy8rnYNfPb2zTRQ6XxpeT?usp=drive_link) for slides and recordings (won't be posted until exam review)
   - [ATutor](https://icm.music.cs.cmu.edu/icm-s25) for assignment submission
   - [Order textbook](https://a.co/d/brdIW0f) ([chapter PDFs](https://icm.music.cs.cmu.edu/icm-online/text/))
-    - [NyquistIDE](https://sourceforge.net/projects/nyquist/) (see installation instructions under [resources]({{< relref "resources.md#latest-nyquist-setup-instructions" >}}))
+    - [NyquistIDE](https://sourceforge.net/projects/nyquist/) (see installation instructions under [resources](resources#latest-nyquist-setup-instructions))
     - [Audacity](https://www.audacityteam.org/download/)
 
 ## Textbooks
@@ -46,13 +46,14 @@ The following texts are completely optional but may be helpful as supplementary 
 
 ## 15-322 vs. 15-622
 
-For graduate students this course is offered as 15-622. Students taking the course under 15-622 are expected to execute an [ambitious semester-long project]({{< relref "project622.md" >}}) in addition to all the other requirements of 15-322. Details of this project will be posted before the first exam.
+For graduate students this course is offered as 15-622. Students taking the course under 15-622 are expected to execute an [ambitious semester-long project](project622) in addition to all the other requirements of 15-322. Details of this project will be posted before the first exam.
 
 ## Grading
 
 The general grading breakdown is as follows:
 
 **15322 Students:**
+
 - (42%) Projects 1-6 (7% each). (See below for grading policies for late days.)
 - (15%) Project 7 (this project cannot be handed in late)
 - (15%) Final Exam
@@ -62,9 +63,10 @@ The general grading breakdown is as follows:
 - (0%) Project 0 does not count towards your grade, but is used to practice handin procedure and peer grading.
 
 **15622 Students:**
+
 - (30%) Projects 1-6 (5% each). (See below for grading policies for late days.)
 - (12%) Project 7 (this project cannot be handed in late)
-- (15%) 15622 [additional project]({{< relref "project622.md" >}}) (details posted by early Feburary)
+- (15%) 15622 [additional project](project622) (details posted by early Feburary)
 - (15%) Final Exam
 - (10%) Exam 1
 - (10%) Exam 2
@@ -83,7 +85,7 @@ Grades will be determined through a combination of autograding and peer/TA gradi
 
 **Submitting empty or trivial ("Cool!") written feedback on peer grading may also result in a loss of points**.
 
-For additional details of the project grading policy see [this page]({{< relref "projects.md#grading-policies" >}}).
+For additional details of the project grading policy see [this page](projects#grading-policies).
 
 ## Attendance policy and class recordings
 

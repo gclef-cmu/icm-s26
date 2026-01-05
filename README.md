@@ -1,13 +1,14 @@
 # CMU 15-322/622 Intro to Computer Music, Spring 2026
 
-## Quick Links
+## Links
 
-- [Syllabus](syllabus.md)
-- [Calendar](calendar.md)
+- [ATutor](https://icm.music.cs.cmu.edu/icm-s26)
+- [Syllabus](syllabus)
+- [Calendar](calendar)
 - [Google Drive](https://drive.google.com/drive/u/0/folders/1FR-i0Tiqi3tBfU1WdVpcW_d0-8P6T1rh)
 - [Piazza](TODO)
 
-## Important information
+## Info
 
 - **Class sessions**: MW 11:00A-12:20P, GHC 4303
 - **Instructor**: [Chris Donahue](https://chrisdonahue.com)
