@@ -14,7 +14,7 @@ menu:
 
 - Time: **Tuesdays and Thursdays 9:30AM - 10:50AM Eastern Time**
 - Location: **Baker Hall A36 (in person)**
-- Content week-by-week and deadlines on [Calendar](calendar)
+- Content week-by-week and deadlines on the [Schedule](schedule)
 - Course numbers: 15-322 (for undergrads), 15-622 (for grads)
 - Instructors: [Chris Donahue](https://chrisdonahue.com), [Tom Cortina](https://www.cs.cmu.edu/~tcortina/)
   - Contact [icm-csd@cmu.edu](mailto:icm-csd@cmu.edu) or on [Piazza](https://piazza.com/class/m5suwbtrswv358), class-related emails to other addresses will be ignored

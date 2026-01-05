@@ -1,5 +1,5 @@
 ---
-title: "Calendar"
+title: "Schedule"
 description: ""
 featured_image: ""
 omit_header_text: true
@@ -7,6 +7,8 @@ menu:
   main:
     weight: 3
 ---
+
+# Schedule
 
 The schedule below is subject to minor modifications. Associated readings from the course textbook are shown in (parentheses). You should read these sections of the textbook _before_ the corresponding lecture.
 

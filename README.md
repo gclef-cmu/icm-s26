@@ -4,7 +4,7 @@
 
 - [ATutor](https://icm.music.cs.cmu.edu/icm-s26)
 - [Syllabus](syllabus)
-- [Calendar](calendar)
+- [Schedule](schedule)
 - [Google Drive](https://drive.google.com/drive/u/0/folders/1FR-i0Tiqi3tBfU1WdVpcW_d0-8P6T1rh)
 - [Piazza](TODO)
 
