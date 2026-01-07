@@ -45,13 +45,12 @@ jobs:
         with:
           name: my-artifact
           path: distfiles
-      - name: Copy folder via SCP
-        uses: appleboy/scp-action@master
-        with:
-          host: ${{ secrets.SCS_HOSTNAME }}
-          username: ${{ secrets.CHRIS_SCS_USERNAME }}
-          password: ${{ secrets.CHRIS_SCS_PASSWORD }}
-          port: 22 # Change if your SSH port is different
-          source: distfiles/*
-          target: ${{ secrets.SCS_DEPLOY_DIR }}
-          strip_components: 1
+      - name: Copy folder via rsync over SSH
+        run: |
+          rsync -av \
+            --no-perms \
+            --no-times \
+            --no-owner \
+            --no-group \
+            distfiles/ \
+            ${{ secrets.CHRIS_SCS_USERNAME }}@${{ secrets.SCS_HOSTNAME }}:${{ secrets.SCS_DEPLOY_DIR }}/
