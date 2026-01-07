@@ -46,11 +46,15 @@ jobs:
           name: my-artifact
           path: distfiles
 
-      - name: Install sshpass
-        run: sudo apt-get install -y sshpass
-
-      - name: Deploy via rsync using password
+      - name: Trust CMU SSH host
         run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan -H ${{ secrets.SCS_HOSTNAME }} >> ~/.ssh/known_hosts
+
+      - name: Deploy via rsync
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y sshpass
           sshpass -p "${{ secrets.CHRIS_SCS_PASSWORD }}" \
             rsync -av \
               --no-perms \
