@@ -56,7 +56,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y sshpass
           sshpass -p "${{ secrets.CHRIS_SCS_PASSWORD }}" \
-            rsync -av \
+            rsync -av --delete \
               --no-perms \
               --no-times \
               --no-owner \
