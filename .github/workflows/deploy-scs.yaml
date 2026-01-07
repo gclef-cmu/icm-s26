@@ -45,12 +45,17 @@ jobs:
         with:
           name: my-artifact
           path: distfiles
-      - name: Copy folder via rsync over SSH
+
+      - name: Install sshpass
+        run: sudo apt-get install -y sshpass
+
+      - name: Deploy via rsync using password
         run: |
-          rsync -av \
-            --no-perms \
-            --no-times \
-            --no-owner \
-            --no-group \
-            distfiles/ \
-            ${{ secrets.CHRIS_SCS_USERNAME }}@${{ secrets.SCS_HOSTNAME }}:${{ secrets.SCS_DEPLOY_DIR }}/
+          sshpass -p "${{ secrets.CHRIS_SCS_PASSWORD }}" \
+            rsync -av \
+              --no-perms \
+              --no-times \
+              --no-owner \
+              --no-group \
+              distfiles/ \
+              ${{ secrets.CHRIS_SCS_USERNAME }}@${{ secrets.SCS_HOSTNAME }}:${{ secrets.SCS_DEPLOY_DIR }}/
