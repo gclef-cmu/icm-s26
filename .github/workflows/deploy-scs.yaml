@@ -20,16 +20,21 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
+
       - name: Install dependencies
         run: npm install marked dompurify jsdom js-yaml
+
       - name: Create output directory
         run: mkdir -p _site
+
       - name: Convert markdown to HTML
         run: node .render/render.js
+
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
@@ -40,7 +45,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Download artifact
+      - name: Download artifact for copying
         uses: actions/download-artifact@v4
         with:
           name: my-artifact
@@ -55,10 +60,10 @@ jobs:
       - name: Install sshpass
         run: sudo apt-get update && sudo apt-get install -y sshpass
 
-      - name: Deploy via rsync (replace contents of www)
+      - name: Deploy via rsync (AFS-safe, overwrite only)
         run: |
           sshpass -p "${{ secrets.CHRIS_SCS_PASSWORD }}" \
-            rsync -av --delete \
+            rsync -av \
               --no-perms \
               --no-times \
               --no-owner \
