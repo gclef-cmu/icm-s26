@@ -55,13 +55,7 @@ jobs:
       - name: Install sshpass
         run: sudo apt-get update && sudo apt-get install -y sshpass
 
-      - name: Ensure target directory exists
-        run: |
-          sshpass -p "${{ secrets.CHRIS_SCS_PASSWORD }}" ssh \
-            ${{ secrets.CHRIS_SCS_USERNAME }}@${{ secrets.SCS_HOSTNAME }} \
-            "mkdir -p ${{ secrets.SCS_DEPLOY_DIR }}"
-
-      - name: Deploy via rsync (replace old contents)
+      - name: Deploy via rsync (replace contents of www)
         run: |
           sshpass -p "${{ secrets.CHRIS_SCS_PASSWORD }}" \
             rsync -av --delete \
@@ -70,4 +64,4 @@ jobs:
               --no-owner \
               --no-group \
               distfiles/ \
-              ${{ secrets.CHRIS_SCS_USERNAME }}@${{ secrets.SCS_HOSTNAME }}:${{ secrets.SCS_DEPLOY_DIR }}/
+              ${{ secrets.CHRIS_SCS_USERNAME }}@${{ secrets.SCS_HOSTNAME }}:${{ secrets.SCS_DEPLOY_DIR }}/www/
