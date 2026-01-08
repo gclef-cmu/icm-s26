@@ -12,7 +12,7 @@ All office hours subject to change. Subscribe to the [Google Calendar]($CALENDAR
   - **Office hour**: W 12:30P-1:30P, GHC 7127
 - **TAs**:
   - **David Liu**: Office hour TBD
-  - **Marco Cardenes**: Office hour TBD
+  - **Marco Cardenes**: Th 11:00A-12:00P, GHC 4101
 
 ## Links
 
