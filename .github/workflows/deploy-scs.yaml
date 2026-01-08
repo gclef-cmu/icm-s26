@@ -69,4 +69,4 @@ jobs:
               --no-owner \
               --no-group \
               distfiles/ \
-              ${{ secrets.CHRIS_SCS_USERNAME }}@${{ secrets.SCS_HOSTNAME }}:${{ secrets.SCS_DEPLOY_DIR }}/www/
+              ${{ secrets.CHRIS_SCS_USERNAME }}@${{ secrets.SCS_HOSTNAME }}:${{ secrets.SCS_DEPLOY_DIR }}
