@@ -4,8 +4,6 @@ Welcome to [_Intro to Computer Music_](./about) (Spring 2026 edition) taught by 
 
 ## Info
 
-All office hours subject to change. Subscribe to the [Google Calendar]($CALENDAR) for latest office hours information.
-
 - **Class sessions**: MW 11:00A-12:20P, GHC 4303
 - **Instructor**: [Chris Donahue](https://chrisdonahue.com)
   - **Contact**: [$EMAIL](mailto:$EMAIL) or private message on [Piazza]($PIAZZA)
@@ -13,6 +11,8 @@ All office hours subject to change. Subscribe to the [Google Calendar]($CALENDAR
 - **TAs**:
   - **David Liu**: Office hour TBD
   - **Marco Cardenes**: Th 11:00A-12:00P, GHC 4101
+
+All office hours subject to change. Subscribe to the [Google Calendar]($CALENDAR) for latest office hours information.
 
 ## Links
 
