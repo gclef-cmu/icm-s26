@@ -31,31 +31,23 @@ You may have forgotten to click the "Confirm" button after receiving your auto g
     - Click “Run Anyway”
     - Additional troubleshooting information can be found here: https://www.cs.cmu.edu/~rbd/doc/nyquist/index.html
 
-### (Optional) Command Line Nyquist setup instructions
+## Alternative: Nyquist via VSCode
 
-- We strongly recommend students use NyquistIDE for all Nyquist programming this semester.
-  However, should you prefer your own IDE, we also provide instructions below on how to interact with the Nyquist interpreter
-  through the command line. Proceed with caution - instructors / TAs may be unable to help you with any issues you encounter
-  outside of NyquistIDE.
-  - Instructions are only provided here for Mac, but Linux usage should be similar
-- First, confirm the Nyquist executable exists at the following path:
-  - `/Applications/NyquistIDE.app/Contents/Java/ny`
-  - It's recommended to add an alias to your `zshrc` (or `bashrc`, if using Bash) to this executable, as below:
-    - `alias nyquist=/Applications/NyquistIDE.app/Contents/Java/ny`
-- Next, locate your `nyquist` folder from installation, likely at `/Users/[your username]/nyquist`, and confirm
-  that it contains a `lib` and `runtime` folder; Add the following to your `zshrc`:
-  - `export XLISPPATH=/Users/[your username]/nyquist/runtime:/Users/[your username]/nyquist/lib`
-  - Make sure to update the above paths to match your own installation.
-  - Now you should be able to able utilize the `nyquist` REPL from anywhere on your system, such as within a VSCode terminal!
-- We provide extremely limited support for this option, but here are some tips you may want to keep in mind:
-  - `nyquist` opens in Lisp mode; to change to SAL mode, enter the command `(sal)` followed by the return key.
-    - This should change your prompt from `>` to `SAL>`
-  - To exit `nyquist`, send `exit` while in SAL, followed by `(exit)` when back in Lisp.
-  - Audio files produced by `play` are saved at the printed path, usually in your `/tmp` directory.
-  - Sound plots, produced by `plot` or `s-plot` are saved as `.dat` files which can be visualized using a third-party tool like `gnuplot` (or even `matplotlib` in `Python` if you desire).
-  - To load/run a file, simply call `load "my_file.sal"` while in the SAL prompting mode.
-  - You may also wish to install the VSCode syntax highlighting extension called `Nyquist`, available in the Extensions Marketplace.
-- Additional documentation is available [here](https://www.cs.cmu.edu/~rbd/doc/nyquist/), under "Command Line"
+We strongly recommend that students use NyquistIDE when programming in Nyquist this semester. However, as an **experimental alternative**, we have also created a VSCode extension allowing for basic Nyquist development.
+
+This extension is [known](https://github.com/chrisdonahue/nyquist-vscode/issues) to have incomplete functionality relative to NyquistIDE. Use at your own risk. If you encounter any programming or project issue and are using the VSCode extension instead of NyquistIDE, the first thing you should do to debug is try NyquistIDE.
+
+First, [install Nyquist](#latest-nyquist-setup-instructions). Then:
+
+1. Grab the latest `.vsix` build from https://github.com/chrisdonahue/nyquist-vscode/releases
+1. Open VSCode and drag the `.vsix` file into your extensions.
+1. Configure the `nyquist.interpreterPath` and `nyquist.xlispPath` settings in [VSCode](https://github.com/chrisdonahue/nyquist-vscode?tab=readme-ov-file#setup-macos-with-nyquistide) to point to your Nyquist installation
+1. You may also need to instruct VSCode to associate `.sal` files w/ the Nyquist SAL language, see image below
+1. Press `Cmd+Shift+R` (Mac) / `Ctrl+Shift+R` (Win/Linux) to run current file
+
+![VSCode associate Nyquist SAL with `.sal` file](./static/img/vscode.png)
+
+If you are particularly eager, contributions to this extension are welcome! You may [open a pull request](https://github.com/chrisdonahue/nyquist-vscode) to the core repo. Key features requests are tracked [here](https://github.com/chrisdonahue/nyquist-vscode/issues).
 
 ## Other resources
 
