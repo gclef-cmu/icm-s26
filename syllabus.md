@@ -81,20 +81,20 @@ Besides lectures and exams, **there will be one additional attendance requiremen
 
 If you have a disability and have an accommodations letter from the Disability Resources office, we encourage you to discuss your accommodations and needs with us as early in the semester as possible. We will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, we encourage you to contact them at access@andrew.cmu.edu.
 
-## ChatGPT and other LLM-based Tools
+## AI tools policy
 
-If you so desire, you _may_ use ChatGPT, GitHub Copilot, and other LLM-based tools in your course projects for a <span style="color:blue">**small number of allow-listed use cases**</span>. Allowed use cases include (see examples below):
+Generally speaking, you are **not allowed to use AI tools to aid in the completion of your work for this course**. As an exception to this, you _may_ use AI tools in your for a <span style="color:blue">**small number of allow-listed use cases**</span>. Allowed use cases include (see examples below):
 
 1. "Interactive reference manual": Asking questions about code examples
 1. "Bulk text manipulation": Automatically perform painstaking text manipulation tasks
 
-All other use cases are prohibited at this time. In particular, you are <span style="color:red">**explicitly prohibited from using LLM-based tools to generate code to fulfill high-level project requirements**</span> (see example below). If you use LLM tools, you are also <span style="color:blue">**required to submit a simple disclosure statement (`llm.txt`) in your project zip file**</span> (see example below). <span style="color:red">**If we determine you have used an LLM tool without disclosure or in a manner that does not conform with the above allowed use cases, you will receive a 0 and could receive an academic integrity violation!**</span> If you have any doubts about if your use of LLM tools is appropriate, just don't use them.
+All other use cases are prohibited at this time. In particular, you are <span style="color:red">**explicitly prohibited from using AI-based tools to generate code to fulfill high-level project requirements**</span> (see example below). If you use AI tools, you are also <span style="color:blue">**required to submit a simple disclosure statement (`ai.txt`) in your project zip file**</span> (see example below). <span style="color:red">**If we determine you have used an AI tool without disclosure or in a manner that does not conform with the above allowed use cases, you will receive a 0 and could receive an academic integrity violation!**</span> If you have any doubts about if your use of AI tools is appropriate, just don't use them.
 
-Note that **ChatGPT knows very little about Nyquist and tends to hallucinate incorrect information quite a bit**. Hence, your mileage using it may vary.
+Note that **AI tools knows very little about Nyquist and tend to hallucinate incorrect information quite a bit**. Hence, your mileage using them may vary.
 
-### <span style="color:blue">Example disclosure (`llm.txt`)</span>
+### <span style="color:blue">Example disclosure (`ai.txt`)</span>
 
-I used ChatGPT to help with this assignment in the following ways:
+I used AI to help with this assignment in the following ways:
 
 - Allowed use case #1: Used it to look up information about the “build-harmonic” function from a code example
 - Allowed use case #1: Used it to help me understand the meaning of the “#t” symbol in Nyquist
