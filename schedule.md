@@ -22,7 +22,7 @@ The schedule below is subject to minor modifications. Associated readings from t
 **Week 2: Basics of Synthesis**
 
 - <s>Monday, January 19 – NO CLASS (MLK Day)</s>
-- Wednesday, January 21 – Unit Generators, Envelopes/Piece-wise Functions, Programming Scores ([2.1]($BOOKCHROOT/chapter02.pdf), [2.4]($BOOKCHROOT/chapter02.pdf), [2.6-2.7]($BOOKCHROOT/chapter02.pdf)
+- Wednesday, January 21 – Unit Generators, Envelopes/Piece-wise Functions, Programming Scores ([2.1]($BOOKCHROOT/chapter02.pdf), [2.4]($BOOKCHROOT/chapter02.pdf), [2.6-2.7]($BOOKCHROOT/chapter02.pdf))
   - <span style="color:orange">_[Start Project 2 (Envelopes and Scores)](./projects/2) – due Sunday, February 1 by 11:59PM Eastern_</span>
 
 **Week 3: Sampling Theory**
