@@ -9,8 +9,8 @@ Welcome to [_Intro to Computer Music_](./about) (Spring 2026 edition) taught by 
   - **Contact**: [$EMAIL](mailto:$EMAIL) or private message on [Piazza]($PIAZZA)
   - **Office hour**: W 12:30P-1:30P, GHC 7127
 - **TAs**:
-  - **David Liu**: T 2:00P-4:00P, F 2:00P-3:00P, NSH 3001
-  - **Marco Cardenes**: Th 11:00A-12:00P, F3:00P-4:00P GHC 4101 (Location on Jan 15 & 22 is NSH 3001)
+  - **David Liu**: T 2:00P-4:00P, F 2:00P-3:00P, GHC 4101
+  - **Marco Cardenes**: Th 11:00A-12:00P, F3:00P-4:00P, GHC 4101
 
 All office hours subject to change. Subscribe to the [Google Calendar]($CALENDAR) for latest office hours information.
 
