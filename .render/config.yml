@@ -7,6 +7,7 @@ nav:
   - Schedule: "schedule.md"
   - Projects: "projects/index.md"
   - Resources: "resources.md"
+  - Showcase : "showcase.md"
 variables:
   - "$EMAIL": "icm-csd@cmu.edu"
   - "$INTEGRITY": "https://forms.gle/jJL12x1tyybki7KE6"
