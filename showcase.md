@@ -33,3 +33,31 @@ I added the pipa sound between the ghost voices to give the piece a more traditi
 This project helped me understand how layering sounds and shaping volume can change the emotional impact of a composition.
 </i></div>
 
+### Atul Thyvalappil 
+<audio controls="" src="./static/showcase/a_thyvalappil_p1.wav"></audio>
+
+**Composer's Notes**
+<div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
+This sound transitions between an eerie hiss and a 2-note mode, meant to create suspense and a sense of impending doom (the recurring ticking, and the modulation between quiet and loud tones).
+</i></div>
+
+### Lynn Ye 
+<audio controls="" src="./static/showcase/l_ye_p1.wav"></audio>
+
+**Composer's Notes**
+<div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
+A canon-like composition based on one single musical motif, with some harmonic progression and contrast between homophonic and polyphonic textures.
+
+</i></div>
+
+### Zhengnan Zhu
+<audio controls="" src="./static/showcase/z_zhu_p1.wav"></audio>
+
+**Composer's Notes**
+<div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
+A moving soundscape that follows a person reading and circling out important ideas while walking through a city street. All sounds samples and music were recorded on an iPhone.
+
+</i></div>
+
+
+
