@@ -32,21 +32,21 @@ The schedule below is subject to minor modifications. Associated readings from t
 
 **Week 4: Synthesis by Modulation**
 
-- Monday, February 2 – Amplitude and Frequency Modulation, Spectral Centroid ([3.8-3.9]($BOOKCHROOT/chapter03.pdf), [4.1-4.3]($BOOKCHROOT/chapter04.pdf), [5.2]($BOOKCHROOT/chapter05.pdf))
+- Monday, February 2 – Amplitude Modulation, Spectral Centroid ([3.8-3.9]($BOOKCHROOT/chapter03.pdf), [5.2]($BOOKCHROOT/chapter05.pdf))
   - <span style="color:orange">_[Start Project 3 (FM Synthesis, Spectral Centroid)](./projects/3) – due Sunday, February 15 by 11:59PM Eastern_</span>
-- Wednesday, February 4 – Sampling Theory: Aliasing, Negative Frequencies, Quantization ([3.3-3.7]($BOOKCHROOT/chapter03.pdf))
+- Wednesday, February 4 – Frequency Modulation ([4.1-4.3]($BOOKCHROOT/chapter04.pdf))
 
 **Week 5: Spectral Analysis**
 
-- Monday, February 9 – Discrete Fourier Analysis: DFT, FFT ([5.1]($BOOKCHROOT/chapter05.pdf))
+- Monday, February 9 – Sampling Theory: Aliasing, Negative Frequencies, Quantization ([3.3-3.7]($BOOKCHROOT/chapter03.pdf))
 - <span style="color:blue">**Wednesday, February 11 – EXAM 1**</span>
   - (Only for graduate students in 15622) <span style="color:orange">_[Start Term Project](./projects/622-term), various due dates_</span>
 
 **Week 6: Granular Synthesis, Algorithmic Composition**
 
-- Monday, February 16 – Behaviors, Granular Synthesis ([4.4-4.9]($BOOKCHROOT/chapter04.pdf), [6.2]($BOOKCHROOT/chapter06.pdf))
+- Monday, February 16 – Discrete Fourier Analysis: DFT, FFT ([5.1]($BOOKCHROOT/chapter05.pdf)), Granular Synthesis ([6.2]($BOOKCHROOT/chapter06.pdf))
   - <span style="color:orange">_[Start Project 4 (Granular Synthesis)](./projects/4) – due Sunday, March 8 by 11:59PM Eastern_</span>
-- Wednesday, February 18 – Patterns / Algorithmic Composition, Mastering Nyquist ([5.3-5.7]($BOOKCHROOT/chapter05.pdf), [6.1]($BOOKCHROOT/chapter06.pdf))
+- Wednesday, February 18 – Behaviors ([4.4-4.9]($BOOKCHROOT/chapter04.pdf)), Patterns / Algorithmic Composition ([5.3-5.7]($BOOKCHROOT/chapter05.pdf))
 
 **Week 7: Filters**
 
@@ -56,6 +56,8 @@ The schedule below is subject to minor modifications. Associated readings from t
 **SPRING BREAK (no classes): Monday, March 2 – Friday, March 6**
 
 **Week 8: Sampling**
+
+<!--Mastering Nyquist ([6.1]($BOOKCHROOT/chapter06.pdf))-->
 
 - Monday, March 9 – Sample-based Synthesis, Markov Chains ([7.1]($BOOKCHROOT/chapter07.pdf), [5.5.3]($BOOKCHROOT/chapter05.pdf))
   - <span style="color:orange">_[Start Project 5 (Sampling, Spectral Processing)](./projects/5) – due Sunday, March 22 by 11:59PM Eastern_</span>
