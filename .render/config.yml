@@ -3,7 +3,6 @@ home_md: "README.md"
 nav:
   - Home: "README.md"
   - About: "about.md"
-  - Syllabus: "syllabus.md"
   - Schedule: "schedule.md"
   - Projects: "projects/index.md"
   - Resources: "resources.md"
