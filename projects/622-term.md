@@ -24,7 +24,6 @@ Every 15-622 student is required to complete a term project (in addition to the 
 By default, this will involve proposing and executing a **computer music software engineering project**, broadly defined. Within scope would be things like:
 
 1. Building a library of Nyquist utilities and using them to realize an ambitious computer music piece
-1. Contribute to a library called [`pyquist`](https://github.com/gclef-cmu/pyquist) which will be used in future iterations of the course
 1. Developing audio plugins (VST, AU, etc.) in C/C++
 1. Creating interactive web-based music applications in JavaScript
 1. Recreating a famous piece of computer music in a modern computer music system
@@ -45,7 +44,7 @@ _Students who are primarily composers are not expected to build complex software
 
 ## A few example project ideas
 
-These were implemented by students in last year's course:
+These were implemented by students in prior years of the course:
 
 1. Nyquist toolkit for creating Synthwave music
 1. VSCode extension for Nyquist development
@@ -55,6 +54,7 @@ These were implemented by students in last year's course:
 1. Nyquist toolkit for sonifying chess games
 1. Real-time sample delay plugin in JUCE
 1. Real-time distortion plugin in JUCE
+1. A plugin for integrating Vocaloid into a game development engine
 1. (Research) An [infinite MIDI generation tool](https://arxiv.org/abs/2411.09625v1)
 
 Other project ideas from past years:
@@ -97,15 +97,15 @@ A proposal is required. Your proposal should state clearly:
 - a specific list of deliverables for your final project submission
 - how will you measure your success? E.g. what functionality will you demonstrate?
 
-All projects must be approved by the instructors, so this really is a proposal. We will usually suggest some changes, and if the project really seems out of line, we’ll let you know early and without penalty. (A clear proposal for a bad project gets a good grade and a request for another submission, a vague proposal for a good project gets a bad grade and an OK to proceed).
+All projects must be approved by the instructors, so this really is a proposal. We will usually suggest some changes, and if the project really seems out of line, we’ll let you know early and without penalty. As long as your proposal is clear, even if the project is infeasible, you won't be penalized for your proposal.
 
-**SUBMISSION: Submit your proposal (as a PDF file) by email to chrisdonahue@cmu.edu with the subject “15-622 Proposal”. Please CC tcortina@cs.cmu.edu as well.**
+**SUBMISSION: Submit your proposal (as a PDF file) by email to chrisdonahue@cmu.edu with the subject "15-622 Proposal".
 
 ## Part 2: Interim Report (due <span style="color:red;">Wednesday, April 1, 2026</span>)
 
 An interim report is required. Ideally, you will have completed the milestone described in your project proposal. If you fail, you should describe clearly what you have done, what problems you encountered, whether this will affect your ability to finish the project as planned, and any modifications (subject to instructor approval) you feel you should make to the project.
 
-**SUBMISSION: You should submit the report as a PDF file by email to chrisdonahue@cmu.edu. Please cc tcortina@cs.cmu.edu as well.** You may attach a zip file with interim code as long as the TOTAL submission including PDF is less than 1MB. If you have sound results, more code, and other data to substantiate your report, put it somewhere on the web and include a link in your email.
+**SUBMISSION: You should submit the report as a PDF file by email to chrisdonahue@cmu.edu.** You may attach a zip file with interim code as long as the TOTAL submission including PDF is less than 1MB. If you have sound results, more code, and other data to substantiate your report, put it somewhere on the web and include a link in your email.
 
 ## Part 3A: IN CLASS Presentation (<span style="color:red;">Monday, April 20, 2026</span> and <span style="color:red;">Wednesday, April 22, 2026</span>)
 
@@ -127,4 +127,4 @@ Please rehearse your talk. It is expected to be fairly polished, be precisely ti
 
 Your goal is to prepare a complete package of software, documentation, example code, and sound examples. For example, if your project were to create a phase vocoder, you would submit the software implementation, document how to apply the vocoder and use all the parameters, provide code examples that apply the vocoder to a test sound, and one or more sounds that illustrate the effect of the vocoder. Another student should be able to use the vocoder given your final submission. **Your submission should reflect what you presented during the week in class. You should not be changing significant portions of your project between the presentation and the written project deadline.**
 
-**SUBMISSION: Put everything in a zip file, submit this zip file to chrisdonahue@cmu.edu and CC tcortina@cs.cmu.edu.**
+**SUBMISSION: Put everything in a zip file, submit this zip file to chrisdonahue@cmu.edu**
