@@ -11,8 +11,9 @@ The following projects have been released (this list will update over time):
 - [Project 7](./7) due Sunday, April 19, 2026 by 11:59PM Eastern (No peer grading. NO LATE DAYS ALLOWED)
 - [Project 6](./6) due Sunday, April 5, 2026 by 11:59PM Eastern (Peer grading due by Sunday, April 12, 2026 by 11:59PM Eastern)
 - [Project 5](./5) due Sunday, March 22, 2026 by 11:59PM Eastern (Peer grading due by Sunday, March 29, 2026 by 11:59PM Eastern)
-- [Project 4](./4) due Sunday, March 8, 2026 by 11:59PM Eastern (Peer grading due by Sunday, March 15, 2026 by 11:59PM Eastern)
 -->
+
+- [Project 4](./4) due Sunday, March 8, 2026 by 11:59PM Eastern (Peer grading due by Sunday, March 15, 2026 by 11:59PM Eastern)
 - [Project 3](./3) due Sunday, February 15, 2026 by 11:59PM Eastern (Peer grading due by Sunday, February 22, 2026 by 11:59PM Eastern)
 - [Project 2](./2) due Sunday, February 1, 2026 by 11:59PM Eastern (Peer grading due by Sunday, February 8, 2026 by 11:59PM Eastern)
 - [Project 1](./1) due Tuesday, January 20, 2026 by 11:59PM Eastern (Peer grading due by Tuesday, January 27, 2026 by 11:59PM Eastern)
