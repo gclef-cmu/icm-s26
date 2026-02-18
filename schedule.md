@@ -46,7 +46,7 @@ The schedule below is subject to minor modifications. Associated readings from t
 
 - Monday, February 16 – Discrete Fourier Analysis: DFT, FFT ([5.1]($BOOKCHROOT/chapter05.pdf)), Granular Synthesis ([6.2]($BOOKCHROOT/chapter06.pdf))
   - <span style="color:orange">_[Start Project 4 (Granular Synthesis)](./projects/4) – due Sunday, March 8 by 11:59PM Eastern_</span>
-- Wednesday, February 18 – Behaviors ([4.4-4.9]($BOOKCHROOT/chapter04.pdf)), Patterns / Algorithmic Composition ([5.3-5.7]($BOOKCHROOT/chapter05.pdf))
+- Wednesday, February 18 – Behaviors ([4.4-4.9]($BOOKCHROOT/chapter04.pdf)), Patterns / Algorithmic Composition ([5.3-5.7]($BOOKCHROOT/chapter05.pdf)), Mastering Nyquist ([6.1]($BOOKCHROOT/chapter06.pdf))
 
 **Week 7: Filters**
 
@@ -56,8 +56,6 @@ The schedule below is subject to minor modifications. Associated readings from t
 **SPRING BREAK (no classes): Monday, March 2 – Friday, March 6**
 
 **Week 8: Sampling**
-
-<!--Mastering Nyquist ([6.1]($BOOKCHROOT/chapter06.pdf))-->
 
 - Monday, March 9 – Sample-based Synthesis, Markov Chains ([7.1]($BOOKCHROOT/chapter07.pdf), [5.5.3]($BOOKCHROOT/chapter05.pdf))
   - <span style="color:orange">_[Start Project 5 (Sampling, Spectral Processing)](./projects/5) – due Sunday, March 22 by 11:59PM Eastern_</span>
