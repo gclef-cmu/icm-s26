@@ -30,7 +30,7 @@ I used my voice to produce sounds for analysis by spectral centroid. Then I used
 ---
 
 ### Victor Norton
-<audio controls="" src="./static/showcase/v_norton_3.wav"></audio>
+<audio controls="" src="./static/showcase/v_norton_p3.wav"></audio>
 
 **Composer's Notes**
 <div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
@@ -48,7 +48,7 @@ by the modified melody and vocals played simultaneously.
 ---
 
 ### Lynn Ye
-<audio controls="" src="./static/showcase/v_norton_3.wav"></audio>
+<audio controls="" src="./static/showcase/l_ye_p3.wav"></audio>
 
 **Composer's Notes**
 <div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
