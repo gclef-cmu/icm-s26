@@ -7,6 +7,59 @@ featured_image: ""
 # Showcase
 Here you can listen to some of the creative projects that students in our class have composed! Some projects also include composer’s notes and source files so you can read about their vision or see how they accomplished their creative goals.
 
+## [Project 3 : FM Synthesis, Spectral Centroid](/projects/3)
+
+### Vishwajeet Avinashilingam
+<audio controls="" src="./static/showcase/v_avinashilingam_p3.wav"></audio>
+
+**Composer's Notes**
+<div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
+With this, since it was FM - I wanted to go the weird neuro/dnb direction. Kept it simple, with different subsections having minor variations. I used no other sounds - all sounds you hear were designed from the original FM sample - a lot of sound design - filtering, compression etc.
+</i></div>
+
+---
+
+### Salina Mu
+<audio controls="" src="./static/showcase/s_mu_p3.wav"></audio>
+
+**Composer's Notes**
+<div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
+I used my voice to produce sounds for analysis by spectral centroid. Then I used the spectral centroid as the im for a melody I created. The melody was meant to sound like a beginner's piano piece that you would learn when you were a kid.
+</i></div>
+
+---
+
+### Victor Norton
+<audio controls="" src="./static/showcase/v_norton_3.wav"></audio>
+
+**Composer's Notes**
+<div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
+I first used my fminstr to make a synth melody using create-cycle and ~ to compress 
+the sound to a speed I liked. Then I made an audio recording of myself singing over 
+the melody, used audacity to try to reduce noise and to align the recording with the 
+sound of the melody, then used that voice recording as the input audio for the spectral
+centriod. Using the SC as the index of modulation on fminstr as it replays the original
+melody results in a shimmery sound that reacts to the singing. Playing them at the same
+time on audacity gives a somewhat cool effect, though there seems be some noise and 
+weird artifacts. The final composition is the orginial melody playing once followed 
+by the modified melody and vocals played simultaneously.
+</i></div>
+
+---
+
+### Lynn Ye
+<audio controls="" src="./static/showcase/v_norton_3.wav"></audio>
+
+**Composer's Notes**
+<div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
+The composition aims to create a rhythmic vibe with all kinds of strange sound, pushing user into a colorful world of FM synthesis. The call and response in the main melody intends to create a sense of space together with the reverb. 
+
+Most of the instruments use origin/beat.wav for the modulation index. As a result, you can hear the syncopated rhythm characteristic of the beat.wav.
+</i></div>
+
+<br>
+<br>
+
 ## [Project 2 : Envelopes and Scores](/projects/2)
 
 ### Isidore Lu
