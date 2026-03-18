@@ -61,14 +61,14 @@ The schedule below is subject to minor modifications. Associated readings from t
   - <span style="color:orange">_[Start Project 5 (Sampling, Spectral Processing)](./projects/5) – due Sunday, March 22 by 11:59PM Eastern_</span>
 - Wednesday, March 11 – STFT Analysis and Resynthesis, Spectral Processing ([McFee 9]($MCFEEROOT/ch09-stft/intro.html), [Dannenberg 8.1-8.2]($BOOKCHROOT/chapter08.pdf))
 
-**Week 9: Vocal Synthesis, Physical Models**
+**Week 9: Vocal Synthesis, Instrument Acoustics**
 
 - Monday, March 16 – Vocal Synthesis ([9.1-9.8]($BOOKCHROOT/chapter09.pdf))
-- Wednesday, March 18 – Instrument Acoustics, Delay and Feedback, Physical Modeling Synthesis ([10.1]($BOOKCHROOT/chapter10.pdf), [10.3.1-10.3.3]($BOOKCHROOT/chapter10.pdf), [11.1-11.3]($BOOKCHROOT/chapter11.pdf))
+- Wednesday, March 18 – Phase Vocoder ([9.6]($BOOKCHROOT/chapter09.pdf)), Instrument Acoustics, Delay and Feedback ([10.1]($BOOKCHROOT/chapter10.pdf), [10.3.1-10.3.3]($BOOKCHROOT/chapter10.pdf))
 
-**Week 10: Physical Models (cont'd)**
+**Week 10: Physical Models**
 
-- Monday, March 23 – Phase Vocoder, Physical Modeling Continued ([9.6]($BOOKCHROOT/chapter09.pdf), [11.4-11.12]($BOOKCHROOT/chapter11.pdf))
+- Monday, March 23 – Physical Modeling Synthesis ([11.1-11.12]($BOOKCHROOT/chapter11.pdf))
   - <span style="color:orange">_[Start Project 6 (Physical Models)](./projects/6) – due Sunday, April 5 by 11:59PM Eastern_</span>
 - <span style="color:blue">**Wednesday, March 25 – EXAM 2**</span>
 
