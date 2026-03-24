@@ -16,7 +16,7 @@ The schedule below is subject to minor modifications. Associated readings from t
 - Monday, January 12 – Course overview, Fundamentals of Sound and Sampling ([1.1-1.2]($BOOKCHROOT/chapter01.pdf))
   - <span style="color:orange">_Read [Syllabus](./syllabus) and [fill out academic integrity form]($INTEGRITY) - due Friday, January 16 by 11:59PM Eastern_</span>
   - <span style="color:orange">_[Start Project 0 (Hello Nyquist)](./projects/0) – due Tuesday, January 13 by 11:59PM Eastern_</span>
-- Wednesday, January 14 – Introduction to Nyquist and SAL ([1.3-1.9]($BOOKCHROOT/chapter01.pdf), [2.2]($BOOKCHROOT/chapter02.pdf))
+- Wednesday, January 14 – (Guest Lecture: Tom Cortina) Introduction to Nyquist and SAL ([1.3-1.9]($BOOKCHROOT/chapter01.pdf), [2.2]($BOOKCHROOT/chapter02.pdf))
   - <span style="color:orange">_[Start Project 1 (Audacity and cross fading)](./projects/1) – due Tuesday, January 20 by 11:59PM Eastern_</span>
 
 **Week 2: Basics of Synthesis**
@@ -46,7 +46,7 @@ The schedule below is subject to minor modifications. Associated readings from t
 
 - Monday, February 16 – Discrete Fourier Analysis: DFT, FFT ([5.1]($BOOKCHROOT/chapter05.pdf)), Granular Synthesis ([6.2]($BOOKCHROOT/chapter06.pdf))
   - <span style="color:orange">_[Start Project 4 (Granular Synthesis)](./projects/4) – due Sunday, March 8 by 11:59PM Eastern_</span>
-- Wednesday, February 18 – Behaviors ([4.4-4.9]($BOOKCHROOT/chapter04.pdf)), Patterns / Algorithmic Composition ([5.3-5.7]($BOOKCHROOT/chapter05.pdf)), Mastering Nyquist ([6.1]($BOOKCHROOT/chapter06.pdf))
+- Wednesday, February 18 – (Guest Lecture: Tom Cortina) Behaviors ([4.4-4.9]($BOOKCHROOT/chapter04.pdf)), Patterns / Algorithmic Composition ([5.3-5.7]($BOOKCHROOT/chapter05.pdf)), Mastering Nyquist ([6.1]($BOOKCHROOT/chapter06.pdf))
 
 **Week 7: Filters**
 
@@ -63,7 +63,7 @@ The schedule below is subject to minor modifications. Associated readings from t
 
 **Week 9: Vocal Synthesis, Instrument Acoustics**
 
-- Monday, March 16 – Vocal Synthesis ([9.1-9.8]($BOOKCHROOT/chapter09.pdf))
+- Monday, March 16 – (Guest Lecture: Tom Cortina) Vocal Synthesis ([9.1-9.8]($BOOKCHROOT/chapter09.pdf))
 - Wednesday, March 18 – Phase Vocoder ([9.6]($BOOKCHROOT/chapter09.pdf)), Instrument Acoustics, Delay and Feedback ([10.1]($BOOKCHROOT/chapter10.pdf), [10.3.1-10.3.3]($BOOKCHROOT/chapter10.pdf))
 
 **Week 10: Physical Models**
@@ -72,25 +72,30 @@ The schedule below is subject to minor modifications. Associated readings from t
   - <span style="color:orange">_[Start Project 6 (Physical Models)](./projects/6) – due Sunday, April 5 by 11:59PM Eastern_</span>
 - <span style="color:blue">**Wednesday, March 25 – EXAM 2**</span>
 
-**Week 11: Acoustics and Perception**
+**Week 11: Psychoacoustics, Compression**
 
-- Monday, March 30 – Acoustics and Perception ([10.1-10.2]($BOOKCHROOT/chapter10.pdf))
-- Wednesday, April 1 – Effects, Echo, Reverberation and Panning ([10.3]($BOOKCHROOT/chapter10.pdf))
+- Monday, March 30 – Psychoacoustics, Tuning ([10.1-10.2]($BOOKCHROOT/chapter10.pdf))
+- Wednesday, April 1 – Compression, MIDI ([13.1-13.7]($BOOKCHROOT/chapter13.pdf))
 
-**Week 12: Advanced Synthesis, Audio Compression**
+**Week 12: Effects, Real-time**
 
-- Monday, April 6 – Advanced Synthesis Techniques ([12.1-12.4]($BOOKCHROOT/chapter12.pdf))
+<!--
+Skipping this this year!
+Advanced Synthesis Techniques ([12.1-12.4]())
+-->
+
+- Monday, April 6 – Effects, Panning ([10.3]($BOOKCHROOT/chapter10.pdf)), Spatialization ([12.4]($BOOKCHROOT/chapter12.pdf))
   - <span style="color:orange">_[Start Project 7 (Computer Music Composition)](./projects/7) – due Sunday, April 19 by 11:59PM Eastern (NO LATE DAYS ALLOWED)_ (No peer grading)</span>
-- Wednesday, April 8 – Quantization, Compression ([13.1-13.5]($BOOKCHROOT/chapter13.pdf))
+- Wednesday, April 8 – Real-time computer music
 
-**Week 13: Music Representations, Future Directions**
+**Week 13: Music AI**
 
-- Monday, April 13 – Computer Music Performance, Lossy Audio Compression ([14.1-14.5]($BOOKCHROOT/chapter14.pdf), [13.1-13.4]($BOOKCHROOT/chapter13.pdf))
-- Wednesday, April 15 – Lossless / Neural Audio Compression, AI/ML for Music, Where to Go Next ([13.5]($BOOKCHROOT/chapter13.pdf), [13.7-13.8]($BOOKCHROOT/chapter13.pdf), [14.6]($BOOKCHROOT/chapter14.pdf), [15]($BOOKCHROOT/chapter15.pdf))
+- Monday, April 13 – (Guest Lecture: Roger Dannenberg) Computer music accompaniment ([14.1-14.5]($BOOKCHROOT/chapter14.pdf))!
+- Wednesday, April 15 – Music AI ([13.5]($BOOKCHROOT/chapter13.pdf), [13.7-13.8]($BOOKCHROOT/chapter13.pdf), [14.6]($BOOKCHROOT/chapter14.pdf))
 
-**Week 14: Project Presentations**
+**Week 14: Future Directions, Project Presentations**
 
-- Monday, April 20 – 15-622 Presentations / Concert (in class)
+- Monday, April 20 – Where to go from here? ([15]($BOOKCHROOT/chapter15.pdf)), 15-622 Presentations / Concert (in class)
 - Wednesday, April 22 – 15-622 Presentations / Concert (in class)
 
 **Finals Week**
