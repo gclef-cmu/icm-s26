@@ -90,7 +90,7 @@ Advanced Synthesis Techniques ([12.1-12.4]())
 
 **Week 13: Music AI**
 
-- Monday, April 13 – (Guest Lecture: Roger Dannenberg) Computer music accompaniment ([14.1-14.5]($BOOKCHROOT/chapter14.pdf))!
+- Monday, April 13 – (Guest Lecture: Roger Dannenberg) Computer music accompaniment ([14.1-14.5]($BOOKCHROOT/chapter14.pdf))
 - Wednesday, April 15 – Music AI ([13.5]($BOOKCHROOT/chapter13.pdf), [13.7-13.8]($BOOKCHROOT/chapter13.pdf), [14.6]($BOOKCHROOT/chapter14.pdf))
 
 **Week 14: Future Directions, Project Presentations**
