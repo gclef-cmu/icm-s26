@@ -102,4 +102,4 @@ Advanced Synthesis Techniques ([12.1-12.4]())
 
 - <span style="color:blue">**Friday, May 1, 1-4p - FINAL EXAM (90 minutes), location TBD**</span>
 
-<span style="color:red">**IMPORTANT: Do not plan post-semester travel until your final exam schedule is finalized, including dealing with any conflicts or cases where three exams are within 25 hours. Our final could be scheduled any time during finals week (Apr 27 - May 4), so you should plan your travel for the day after at the earliest to be safe. If you have conflicts, you may want to plan to depart even later. Early/late final exams will not be accommodated.**</span>
+<span style="color:red">**IMPORTANT: Do not plan post-semester travel until your final exam schedule is finalized, including dealing with any conflicts or cases where three exams are within 25 hours. Because our final is on May 1, you should plan your travel for May 2 at the earliest to be safe. If you have conflicts, you may want to plan to depart even later. Early/late final exams will not be accommodated.**</span>
