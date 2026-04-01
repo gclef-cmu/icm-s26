@@ -1,0 +1,5 @@
+Leaves Fill the Path
+Simon Shin
+Program notes:
+• This is a cover of a song made by Camellia, Temmie Chang, and Toby Fox. I liked the song and I thought it had some repetition so I thought patterns were a good way to build it in Nyquist.
+• Patterns were used everywhere here, but the best usage of them is in treble, where the same overall melody plays over and over again, with the first three notes changing. I implemented this with nested patterns, and I'm pretty proud of it :) .
