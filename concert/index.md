@@ -43,6 +43,16 @@ The piece was an exploration of how familiar musical material can be gradually t
 
 <audio controls src="media/05.mp3"></audio>
 
+## 06: Anonymous  - Playing Poker
+
+A poker table has its own music: chips whisper, cards strike the felt, hands fold, wait, and begin again. This piece begins inside that repetitive, slightly numb table-time, where boredom is the background condition and drama only matters because it interrupts routine.
+
+The form follows two hands. In the first, the player finds a rare moment of certainty: a strong hand, aggressive betting, a call, and release. The table suddenly brightens. Familiar chip and card sounds open into granular textures, and FM tones rise out of the noise like a rush of adrenaline. The jackpot functions as a brief structural flash, not just a sound effect.
+
+Then the room settles back into ordinary waiting.
+
+The second hand returns with unease already present. Similar gestures reappear, but now they are more unstable: spectral heartbeat textures, brittle physical-model attacks, and a score-driven betting line that keeps pushing toward greater risk. The river misses, the bluff comes, and the final call drains the sound field rather than resolving it. The piece ends not with triumph, but with the collapse of performed confidence.
+
 <h2 style="color: #1a6fd6">07*: Kate Lee  - Dissolution of Memory</h2>
 
 This piece traces the slow unraveling of a simple melody. What begins as a clean, intimate mandolin theme, grounded by a steady bowed bass, is subjected to increasingly aggressive forms of corruption across four movements. In the first, imperceptible timing errors and microtonal detuning introduce doubt. In the second, the bass accelerates into eighth-note figures, a random harmonic voice intrudes, and a sitar drone swells underneath, pulling the music toward chaos. In the third, FM synthesis replaces the mandolin entirely: the melody survives in pitch only, its timbre growing more metallic and unrecognizable with each note, while the tempo itself slows and distorts and audio starts clipping. Throughout, the left hand drifts lower and further out of tune, as if losing its footing. The piece asks: at what point does a melody stop being itself? The answer, reached gradually, is that identity dissolves not in a single moment but through accumulation— small corruptions, compounded.
