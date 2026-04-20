@@ -1,19 +1,21 @@
 # Project 7 Concert
 
+Pieces marked with <span style="color: #1a6fd6">\*</span> were declared fully executable in Nyquist and are eligible for the Dannenberg Award.
+
 ## 0: Anthony Samms  - Ode to Naikia
 
 I've created a piece that blurs the lines between what you may think came from Nyquist and what was created on my own. The piece is short and sweet, so I hope you enjoy!
 
 <audio controls src="media/0.mp3"></audio>
 
-## 1: Amethyst Unknown  - SPECTRAALIZATION
+<h2 style="color: #1a6fd6">1*: Amethyst Unknown  - SPECTRAALIZATION</h2>
 
 A nyquist adaptation of a spooky, possibly melodramatic song I composed for piano originally. Mixed by brute force. Coded haphazardly under time pressure of course. The random part is the fast arpeggios at the start. 
 Somethings happening up ahead. The path is dark, the light is red. At least I know enough to accept I'm stronger than the parts I left. The spectralization was an attempt to immortalize your final breath, a pale imitation of your flesh.
 
 <audio controls src="media/1.mp3"></audio>
 
-## 2: Anirudh Mani  - As the Day Fades
+<h2 style="color: #1a6fd6">2*: Anirudh Mani  - As the Day Fades</h2>
 
 This piece imagines a figure watching the city from above as the workday comes to an end. At first, the city feels distant and quiet, with most people still inside. As the day fades, the streets fill with movement as people leave their offices and head into the weekend. This activity gradually slows, leaving behind a quieter, more reflective atmosphere.
 
@@ -23,7 +25,7 @@ As the density of these layers increases and then recedes, the music follows the
 
 <audio controls src="media/2.mp3"></audio>
 
-## 3: RPV  - Reincarnated as a caveman and these rocks kinda hit??
+<h2 style="color: #1a6fd6">3*: RPV  - Reincarnated as a caveman and these rocks kinda hit??</h2>
 
 comp1.sal generates the shouting.wav file from source/shout and source/hmm
 The first part of the composition(up until the screaming chicken)'s code is all in fin.sal
@@ -32,7 +34,7 @@ Melodies.sal creates the rest of the composition with score-gen functions and ma
 
 <audio controls src="media/3.mp3"></audio>
 
-## 4: Daniel Shan  - Haunted House
+<h2 style="color: #1a6fd6">4*: Daniel Shan  - Haunted House</h2>
 
 This piece is divided into two halves with distinct characters. The first half features melodic lines performed by physical models of acoustic 
 instruments, including flute and saxophone. Harmonic structure and rhythm are generated using nested patterns for score processing, creating a tense but coherent musical texture.
@@ -41,7 +43,7 @@ The piece was an exploration of how familiar musical material can be gradually t
 
 <audio controls src="media/4.mp3"></audio>
 
-## 6: Kate Lee  - Dissolution of Memory
+<h2 style="color: #1a6fd6">6*: Kate Lee  - Dissolution of Memory</h2>
 
 This piece traces the slow unraveling of a simple melody. What begins as a clean, intimate mandolin theme, grounded by a steady bowed bass, is subjected to increasingly aggressive forms of corruption across four movements. In the first, imperceptible timing errors and microtonal detuning introduce doubt. In the second, the bass accelerates into eighth-note figures, a random harmonic voice intrudes, and a sitar drone swells underneath, pulling the music toward chaos. In the third, FM synthesis replaces the mandolin entirely: the melody survives in pitch only, its timbre growing more metallic and unrecognizable with each note, while the tempo itself slows and distorts and audio starts clipping. Throughout, the left hand drifts lower and further out of tune, as if losing its footing. The piece asks: at what point does a melody stop being itself? The answer, reached gradually, is that identity dissolves not in a single moment but through accumulation— small corruptions, compounded.
 
@@ -51,13 +53,13 @@ This piece aims to capture the feeling of wandering alone at night. The chords u
 
 <audio controls src="media/7.mp3"></audio>
 
-## 8: Anonymous  - Arcade Crush
+<h2 style="color: #1a6fd6">8*: Anonymous  - Arcade Crush</h2>
 
 Have you ever been in an arcade after the sun has set and felt like you were transported to another reality? The one outside the glass doors of the arcade disappears and you’re left in a world that is built bit by bit, block by block, then destroyed the moment you read the game over on the screen. I really wanted to use the bit crushing technique we discussed in class (I hope people find this as cool as I do) and the idea of a warped and distorted arcade game audio sounded like an interesting idea to play around with. I hope you enjoy!
 
 <audio controls src="media/8.mp3"></audio>
 
-## 9: Lynn  - Extraterrestial Visitor
+<h2 style="color: #1a6fd6">9*: Lynn  - Extraterrestial Visitor</h2>
 
 This composition is based on the idea that listeners tend to perceive intervals more readily than absolute frequencies. An algorithm scans two piecewise linear functions (one increasing one decreasing) and identifies points where their frequency ratios approximate predefined just intonation ratios. At these moments, the piece briefly settles on the resulting harmonic interval, with chords that are either manually selected or randomly generated according to the interval type.
 
@@ -65,7 +67,7 @@ The B section, in contrast, uses fixed A=440Hz. However, microtonal harmonies ar
 
 <audio controls src="media/9.mp3"></audio>
 
-## 10: Anonymous  - Music Box Collection
+<h2 style="color: #1a6fd6">10*: Anonymous  - Music Box Collection</h2>
 
 This piece was inspired by the sound and feeling of four imagined music boxes, each one with a slightly different character from the rest. The first music box is sweet and simple and we end up with a broken ominous one. My goal was to create a whimsical atmosphere, while also introducing contrast through texture, pacing, and transformation across sections.
 
@@ -90,13 +92,13 @@ Audacity to further mix the composition.
 
 <audio controls src="media/11.mp3"></audio>
 
-## 13: Dario Quintero  - Happy Birthdy America
+<h2 style="color: #1a6fd6">13*: Dario Quintero  - Happy Birthdy America</h2>
 
 The Star Spangled Banner replayed with physical modeling, and Markov chains.
 
 <audio controls src="media/13.mp3"></audio>
 
-## 14: ryan zhang  - computer dreams
+<h2 style="color: #1a6fd6">14*: ryan zhang  - computer dreams</h2>
 
 Sometimes we are in a position when we question our senses. The digital world can consume our consciousness. The fabric of reality is indeed so fragile. Digital scenes. Computer dreams.
 
@@ -104,13 +106,13 @@ Further Notes: I took heavy inspiration from liminal spaces and the video game E
 
 <audio controls src="media/14.mp3"></audio>
 
-## 16: Collin Greco  - Precipice of War
+<h2 style="color: #1a6fd6">16*: Collin Greco  - Precipice of War</h2>
 
 This piece aims to capture the sounds of the medieval battlefield and the feelings of valor and sorrow that the soldiers of that time might have felt, standing at the precipice of war. It applies granular synthesis and spectral processing to create ominous sounds like warhorns and wardrums. Additionally, the piece samples a trumpet clip which is applied in an attempt to characterize feelings of valor, and uses the physical models of the mandolin and flute, aiming to exhibit alternative feelings of sorrow.
 
 <audio controls src="media/16.mp3"></audio>
 
-## 17: Anonymous  - Where the Stars Drift
+<h2 style="color: #1a6fd6">17*: Anonymous  - Where the Stars Drift</h2>
 
 <audio controls src="media/17.mp3"></audio>
 
@@ -120,7 +122,7 @@ An exploration into the types of music a frog might enjoy while relaxing in a sw
 
 <audio controls src="media/18.mp3"></audio>
 
-## 19: Zhengnan Zhu  - Spring Fragments
+<h2 style="color: #1a6fd6">19*: Zhengnan Zhu  - Spring Fragments</h2>
 
 This piece explores the atmosphere of early spring through a combination of synthesized tones and environmental textures. The music begins with a light and transparent texture, gradually building density and harmonic richness over time. Wind-like noise and bird-like gestures create a sense of space and motion, while the melodic material evolves through repetition and transformation.
 
@@ -138,7 +140,7 @@ The composition is created by generating three instrument layers in Nyquist. A p
 
 <audio controls src="media/20.mp3"></audio>
 
-## 21: Yuan  - Falling Petals in Still Water
+<h2 style="color: #1a6fd6">21*: Yuan  - Falling Petals in Still Water</h2>
 
 This piece is inspired by the image of petals falling onto still water, where time seems to slow down and small details become more noticeable. I wanted to combine a classical harmonic structure with a more lyrical, Chinese-inspired melodic style. The main melody is written to feel continuous and expressive, like the gentle motion of falling petals, while the piano and strings provide a stable, repeating foundation underneath, like the surface of the water carrying these subtle changes.
 
@@ -146,13 +148,13 @@ The image of petals drifting across still water also shaped the structure of the
 
 <audio controls src="media/21.mp3"></audio>
 
-## 22: Vishwajeet Avinashilingam  - EZZA - The Prelim
+<h2 style="color: #1a6fd6">22*: Vishwajeet Avinashilingam  - EZZA - The Prelim</h2>
 
 EZZA - The Prelim started out with a piano idea, that I converted into a nyquist score eventually. I used reverb and delay buses interestingly - this let me process these streams separately. I tried to create an orchestration of sorts by sorting different MIDI note ranges into different instruments. A mastering EQ to boost the highs and lows towards the end.
 
 <audio controls src="media/22.mp3"></audio>
 
-## 23: Anonymous  - Royal Road
+<h2 style="color: #1a6fd6">23*: Anonymous  - Royal Road</h2>
 
 The goal of this project was to somewhat mimic a rock song using just Nyquist, no sources used. I used the Royal Road Chord progression because I watched a video about it, hence the composition name, though without inversions or anything else it doesn't fit super well. I tried to recreate drums, bass, and electric guitar for this purpose, and put both a rhythm and lead guitar into the song. I then introduced some more electronic elements to embellish the guitar solo near the end. I modified the mandolin instrument for the bass and electric guitar, and I modified noise plus some basic oscillator tones for the drums (hat is noise, snare is noise plus tone, kick is noise plus lower tone). Pattern generation was used to add some randomness to the guitar solo to extend it. FM synthesis creates that extra instrument that plays along-side the guitar solo. Panning led to annoying clipping issues, so it's in mono, but the guitars would be better panned. It also doesn't really sound like rock by the end and the guitars lack distortion but its fineee.
 
