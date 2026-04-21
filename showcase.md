@@ -7,7 +7,7 @@ featured_image: ""
 # Showcase
 Here you can listen to some of the creative projects that students in our class have composed! Some projects also include composer’s notes and source files so you can read about their vision or see how they accomplished their creative goals.
 
-## [Project 5 :Sampling and Spectral Processing ](/projects/5)
+## [Project 5 : Sampling and Spectral Processing ](/projects/5)
 
 ### Yuxin Miao
 <audio controls="" src="./static/showcase/y_miao_p5.wav"></audio>
@@ -16,6 +16,8 @@ Here you can listen to some of the creative projects that students in our class 
 <div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
 In my piece, I've mainly used two spectral processing functions that I've wrote that acts as a low/high pass for the magnitude of the frames. These magnitude low/high pass functions will only include frames with a magnitude that's within the pass. Since the source sounds that I've used are all mostly orchestral sounds, I aimed to make the composition sound orchestral as well, with a bit of dark/mysterious atmosphere to it. The composition is made entirely of the outputs of different spectral processing runs when edits done in FL Studio.
 </i></div>
+
+---
 
 ### Victor Norton
 <audio controls="" src="./static/showcase/v_norton_p5.wav"></audio>
@@ -30,6 +32,8 @@ background singing. By vocode I mean spectral cross synthesis from example 4. Th
 has the original singing at first and only really has the spectral synthesis at the end. 
 </i></div>
 
+---
+
 ### Anthony Samms
 <audio controls="" src="./static/showcase/a_samms_p5.wav"></audio>
 
@@ -38,6 +42,8 @@ has the original singing at first and only really has the spectral synthesis at 
 I created a beat with the main sample created with spectral processing. I created a synth, exported it, and then cross synthesized it with an opera sample I found online to create a unique overlay. I then added a small drum loop and a bass to accompany with some other flourishes. It took a lot of time to put the sample in a usable state, as I had to chop and retune certain notes of the original sample for it to not sound out of place when the spectral processing effect was used.
 </i></div>
 
+---
+
 ### Ryan Zhang
 <audio controls="" src="./static/showcase/r_zhang_p5.wav"></audio>
 
@@ -45,6 +51,9 @@ I created a beat with the main sample created with spectral processing. I create
 <div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
 So for my composition I just used the inputs used for the cross-synthesis (a Tibetan chant and a Tibetan prayer recitation) and the sampling exercise. I then used the output instrument from those exercises, and created new various sounds (spectral inversion, glitched effect through removing frequencies). Using the produced sounds I manipulated further with effects such as delay reverb and chopping up the samples to create this experimental Tibetan-inspired soundscape.
 </i></div>
+
+<br>
+<br>
 
 ## [Project 4 : Granular Synthesis](/projects/4)
 
