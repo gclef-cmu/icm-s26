@@ -7,6 +7,79 @@ featured_image: ""
 # Showcase
 Here you can listen to some of the creative projects that students in our class have composed! Some projects also include composer’s notes and source files so you can read about their vision or see how they accomplished their creative goals.
 
+## [Project 7 : Computer Music Composition ](/projects/7)
+
+<a href="/concert/">Concert</a>
+
+<br>
+<br>
+
+## [Project 6 : Physical Models and Patterns ](/projects/6)
+
+### Salina Mu
+<audio controls="" src="./static/showcase/s_mu_p6.wav"></audio>
+
+**Composer's Notes**
+<div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
+My goal for this piece was to create battle music for animated characters. I used nested pattern generators for the 'build' at the start of the piece to transpose the pulse with each repetition.
+</i></div>
+
+---
+
+### Kai Okorodudu
+<audio controls="" src="./static/showcase/k_okorodudu_p6.wav"></audio>
+
+**Composer's Notes**
+<div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
+The idea for this one was to have each instrument play at a different division of time. The low notes play once every transposition, where the mid-freq and high-freq instruments play at a 4:1 ratio. Every so often, the ensemble transposes like in the warmup, to add variety.
+</i></div>
+
+---
+
+### Victor Norton
+<audio controls="" src="./static/showcase/v_norton_p6.wav"></audio>
+
+**Composer's Notes**
+<div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
+I already had chords and a repeating melody in mind that I had come up with recently, 
+so the challenging part was incorporating random patterns without compromising my 
+musical goal. I first made the bass part of the song jump up and down octaves by a 
+random pattern similar to the offset from F6(), with the offset lasting for 2 notes 
+instead of 20. Then I used make heap to make a simple repeating melody with a 
+vibraphone sound. Finally, I used make-heap() and a very small ioi to make the shimmery 
+chords with the sax synth that you hear in the second part of the song. 
+
+Ultimately there are 4 voices, mandolin playing the repeating cycle, wg-uniform-bar for
+the bass, modal-bar( mode = quote(vibraphone)) for the melody, and sax for the chords.
+</i></div>
+
+---
+
+### Justin Wang
+<audio controls="" src="./static/showcase/j_wang_p6.wav"></audio>
+
+**Composer's Notes**
+<div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
+Intention
+*********
+This piece is a DIY Choose-Your-Own-Adventure composition meant to be completed by both you and the computer!
+
+While the computer generates the score algorithmically using a variety of pattern generators and nested patterns, you, as the user, are in control of the hyperparameters! For example, you get to choose whether the bassline is plucked or bowed, whether the melody line should be played by a saxophone, clarinet or vibraphone and how long the overall piece should be.
+
+More detailed instructions can be found within the code. Happy composing! :-)
+
+
+Motivation
+**********
+Given that algorithmic composition is allowing the computer to determine certain aspects of a piece, I decided to take this one step further and let the user decide the other aspects of my piece. Heavily influenced by the structure (and not the style) of pop-punk bands from the early 2000's, my composition includes a backing drum track, a bassline and a melody. However, this doesn't come without its own set of challenges. Given that there are three independent and simultaneous voices, the likelihood of dissonance occurring is (relatively) high. Therefore, I decided to compose this piece in a major pentatonic scale, where (dissonant) collisions are less likely to occur. This allows for a more balanced algorithmic design that still manages to sound pleasant to the ear, no matter how many times you generate a new score. Furthermore, the pentatonic scale is one of my favorite scales as it (usually) produces uplifting melodies, which are further emphasized in my piece by the lighthearted bassline and backing drum.
+
+The melody is created using a pattern generator while the backing rhythm and bassline are both generated from nested patterns. Delays are added at the start of the piece to emphasize the arrival of each individual voice. Multiple helper functions were created to aid with generating patterns using various different instruments. Given that the intention of my piece is so that the user can participate in its composition, the pattern generators were carefully crafted to ensure that repeated runs of the code would continually generate pleasant results.
+</i></div>
+
+<br>
+<br>
+
+
 ## [Project 5 : Sampling and Spectral Processing ](/projects/5)
 
 ### Yuxin Miao
