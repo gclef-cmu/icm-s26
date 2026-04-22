@@ -9,7 +9,12 @@ Here you can listen to some of the creative projects that students in our class 
 
 ## [Project 7 : Computer Music Composition ](/projects/7)
 
-<a href="/concert/">Concert</a>
+### [Concert](/concert/)
+
+<div style="height:200px;overflow:auto;border:1px solid #000;padding:10px"><i>
+It’s been our pleasure to meet so many of you, and we’re truly amazed by the music you’ve created.
+Enjoy the concert, and good luck on your finals!
+</i></div>
 
 <br>
 <br>
