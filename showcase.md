@@ -69,7 +69,7 @@ This piece is a DIY Choose-Your-Own-Adventure composition meant to be completed 
 
 While the computer generates the score algorithmically using a variety of pattern generators and nested patterns, you, as the user, are in control of the hyperparameters! For example, you get to choose whether the bassline is plucked or bowed, whether the melody line should be played by a saxophone, clarinet or vibraphone and how long the overall piece should be.
 
-More detailed instructions can be found within the code. Happy composing! :-)
+More detailed instructions can be found within the code. Happy composing!
 
 
 Motivation
